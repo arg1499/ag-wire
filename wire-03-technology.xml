@@ -2,8 +2,15 @@
 <rss version="2.0">
   <channel>
     <title>AG Complete Wire — Technology</title>
-    <description>AG Complete Wire — Technology — AG Complete Wire (local archive)</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:13:06 -0400</lastBuildDate>
+    <description>AG Complete Wire — Technology — AG Complete Wire</description>
+    <lastBuildDate>Sat, 10 Oct 2026 08:31:04 -0400</lastBuildDate>
+    <item>
+      <title>LLMs Aren't Inevitable</title>
+      <link>https://deadsimpletech.com/blog/llms-arent-inevitable</link>
+      <guid isPermaLink="false">agwire:011114117e01b8be</guid>
+      <pubDate>Sat, 10 Oct 2026 08:04:04 -0400</pubDate>
+      <description>Comments</description>
+    </item>
     <item>
       <title>Roundtables: A Conversation With the Creator of AI-Designed Viruses</title>
       <link>https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/</link>
@@ -859,13 +866,6 @@
       <description>Anthropic said it &quot;turned off live internet access&quot; for &quot;all our internal evaluations&quot; until further notice.</description>
     </item>
     <item>
-      <title>Long live the mechanical keyboard</title>
-      <link>https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/</link>
-      <guid isPermaLink="false">agwire:6831bebe1f09fdae</guid>
-      <pubDate>Fri, 09 Oct 2026 18:08:24 -0400</pubDate>
-      <description>Keychron made a name for itself after launching on Kickstarter in 2017.</description>
-    </item>
-    <item>
       <title>The maker of non-text AI model Jev valued at $7.5B just weeks after launch</title>
       <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
       <guid isPermaLink="false">agwire:40bca492d37b418b</guid>
@@ -885,13 +885,6 @@
       <guid isPermaLink="false">agwire:f0ae3c4e6ec5656e</guid>
       <pubDate>Fri, 09 Oct 2026 14:57:58 -0400</pubDate>
       <description>Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers</title>
-      <link>https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/</link>
-      <guid isPermaLink="false">agwire:5ed443420539c717</guid>
-      <pubDate>Fri, 09 Oct 2026 14:57:06 -0400</pubDate>
-      <description>Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers.</description>
     </item>
     <item>
       <title>LumenUs helps automate tedious paperwork in times of grief</title>
@@ -922,13 +915,6 @@
       <description>&quot;When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,&quot; Dr.</description>
     </item>
     <item>
-      <title>Remember Orkut? Its founder wants to bring it back</title>
-      <link>https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/</link>
-      <guid isPermaLink="false">agwire:be9f79183e8578d4</guid>
-      <pubDate>Fri, 09 Oct 2026 11:56:15 -0400</pubDate>
-      <description>Orkut's founder is now taking aim at algorithms and AI-generated content.</description>
-    </item>
-    <item>
       <title>a16z’s Olivia Moore on the state of consumer AI</title>
       <link>https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/</link>
       <guid isPermaLink="false">agwire:8db4b5f87903840a</guid>
@@ -941,20 +927,6 @@
       <guid isPermaLink="false">agwire:82aa9581bfc0be12</guid>
       <pubDate>Fri, 09 Oct 2026 11:02:30 -0400</pubDate>
       <description>Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned.</description>
-    </item>
-    <item>
-      <title>Beyond TechCrunch Disrupt 2026: The Side Events, Parties &amp; Networking You Can’t Miss</title>
-      <link>https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/</link>
-      <guid isPermaLink="false">agwire:599e8e0cacd4e822</guid>
-      <pubDate>Fri, 09 Oct 2026 10:42:34 -0400</pubDate>
-      <description>TechCrunch Disrupt 2026 is just the beginning.</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise</title>
-      <link>https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/</link>
-      <guid isPermaLink="false">agwire:be7725226abc6e69</guid>
-      <pubDate>Fri, 09 Oct 2026 10:00:00 -0400</pubDate>
-      <description>Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15.</description>
     </item>
     <item>
       <title>Surveillance company Flock cuts staff as privacy backlash grows</title>
