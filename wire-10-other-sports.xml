@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AG Complete Wire: Top Sports</title>
     <description>The day's biggest sports stories across every sport.</description>
@@ -11,6 +11,19 @@
       <pubDate>Sat, 10 Oct 2026 09:15:00 -0400</pubDate>
       <description>The Rays swept the Yankees out of the ALDS at Yankee Stadium. Aaron Judge stayed in the dugout to watch it happen. Now comes a long winter — and the only question that matters.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>The Rays swept the Yankees out of the ALDS at Yankee Stadium. Aaron Judge stayed in the dugout to watch it happen. Now comes a long winter — and the only question that matters.</em></p>
+<h2>The news</h2>
+<p>The Rays swept the Yankees in the 2026 ALDS — in the Bronx, on the Yankees&#x27; own grass. Aaron Judge stayed in the home dugout afterward to watch an opponent celebrate an elimination at Yankee Stadium, &quot;hating every single moment,&quot; as he put it. One account called the ending fitting. Another noted the sense of inevitability hanging over the ballpark. Now: a long, cold winter to figure out 2027, with the futures of Aaron Boone and Brian Cashman openly in question.</p>
+<h2>Why it matters</h2>
+<p>A sweep is not a loss. A loss can be a bad hop, a gassed bullpen, a gamble that almost worked. A sweep is structural — game after game of one team demonstrating it was simply better, with the home crowd arriving at acceptance before the final out.</p>
+<p>The damning word in this week&#x27;s coverage isn&#x27;t &quot;swept.&quot; It&#x27;s &quot;inevitability.&quot; When the Bronx expects the ending, the problem wasn&#x27;t born that night. That&#x27;s what separates a disappointing exit from an indictment.</p>
+<h2>The fork</h2>
+<p>Every Yankees October autopsy ends at the same junction: roster problem or organization problem?</p>
+<p>A roster problem gets fixed over a winter — a bat here, an arm there, and the machine hums again by spring. An organization problem is about how the roster gets built in the first place, how October baseball gets weighed against regular-season output, and who&#x27;s accountable when the ending starts feeling inevitable before the series does.</p>
+<p>The Boone-and-Cashman discourse is really a proxy war over that question. Nobody actually thinks the manager forgot how to fill out a lineup card. They&#x27;re asking whether the people building the roster understand what October requires — and whether anyone in the building is empowered to say so out loud.</p>
+<h2>The takeaway</h2>
+<p>Firing a manager is the cheapest renovation in sports. One press conference, instant catharsis, same foundation. It rarely answers the deeper question, which is precisely why teams keep buying it.</p>
+<p>This winter will reveal which problem the Yankees&#x27; leadership believes it has. October already revealed which one it actually has. Judge, standing alone in that dugout watching the celebration, knew. Everybody in the building knew. The only people who get to pretend otherwise are the ones who sign the checks.</p>]]></content:encoded>
     </item>
     <item>
       <title>Oregon got blindsided too</title>
@@ -19,6 +32,11 @@
       <pubDate>Sat, 10 Oct 2026 09:15:00 -0400</pubDate>
       <description>Dana Altman retires, and his own players call it 'a shock.' A season now starts with a eulogy.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>Dana Altman retires, and his own players call it &#x27;a shock.&#x27; A season now starts with a eulogy.</em></p>
+<p>Dana Altman is retiring as the winningest coach in Oregon basketball history, and his players found out the way everyone does now — blindsided. &quot;A shock,&quot; in their words. A program days into preseason prep just lost its head coach, its system, and its entire recruiting pitch in a single announcement, less than a month before the season.</p>
+<p>This is the part nobody talks about with sudden retirements: the players didn&#x27;t choose this. They committed to a coach, a scheme, a developmental plan. They&#x27;ll now play for someone else&#x27;s vision, or scatter into the portal, or both. Altman&#x27;s timing — strange on its face — is devastating in its specifics. October is when rotations get set and freshmen learn where to be. Instead, Eugene is holding auditions.</p>
+<p>The tributes will be warm and deserved. Altman built Oregon into a national program. But legacies don&#x27;t run practices, and the Ducks&#x27; season now begins with the weirdest possible energy: mourning a departure nobody saw coming while trying to win games next month.</p>
+<p><strong>Why it matters:</strong> Watch the portal. A coaching shock this close to tip-off doesn&#x27;t just cost a season — it costs a roster. Whoever takes over inherits players who didn&#x27;t sign up for them, in a sport where that sentence now ends with transfer paperwork.</p>]]></content:encoded>
     </item>
     <item>
       <title>FSU is a crater and Norvell brought the shovel</title>
@@ -27,6 +45,11 @@
       <pubDate>Sat, 10 Oct 2026 09:15:00 -0400</pubDate>
       <description>'Extremely poor performance.' When the coach supplies the obituary quotes, you know where this is going.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>&#x27;Extremely poor performance.&#x27; When the coach supplies the obituary quotes, you know where this is going.</em></p>
+<p>&quot;Extremely poor performance.&quot; Those were Mike Norvell&#x27;s words after Florida State authored another one — and when the head coach is the one supplying the pull quotes for the program&#x27;s obituary, the buyout conversation has already started in every booster chat in Tallahassee.</p>
+<p>Owning the blame is admirable. It&#x27;s also what coaches do right before they run out of time. Norvell isn&#x27;t wrong about the product — FSU isn&#x27;t losing close games on bad breaks. They&#x27;re getting run. There&#x27;s a difference between a slump and a crater, and craters don&#x27;t get fixed with accountability press conferences.</p>
+<p>The portal era was supposed to make rebuilds instant: plug holes, reload, contend. What nobody advertised is that it also makes collapses instant. Talent walks out as fast as it walks in, and when the losing starts, the exits multiply. FSU isn&#x27;t rebuilding. It&#x27;s free-falling, and every week the hole gets deeper and the next coach&#x27;s job gets harder.</p>
+<p><strong>Why it matters:</strong> The next FSU coach inherits either a sleeping giant or a structural disaster, and right now it looks like the latter. In the portal era, programs don&#x27;t get grace periods — they get transfer requests. The clock isn&#x27;t ticking on Norvell&#x27;s tenure. It&#x27;s already run out; they&#x27;re just negotiating the announcement.</p>]]></content:encoded>
     </item>
     <item>
       <title>Philly's center rotation just tore</title>
@@ -35,6 +58,11 @@
       <pubDate>Sat, 10 Oct 2026 09:15:00 -0400</pubDate>
       <description>Ariel Hukporti's Achilles tear guts the Sixers' frontcourt depth behind the NBA's most expensive question mark.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>Ariel Hukporti&#x27;s Achilles tear guts the Sixers&#x27; frontcourt depth behind the NBA&#x27;s most expensive question mark.</em></p>
+<p>Ariel Hukporti tore his Achilles. He was in line for a significant uptick in playing time in Philadelphia — the former Knick had played his way from part-time minutes into a real rotation role. Now he&#x27;s done, and the Sixers&#x27; frontcourt depth behind Joel Embiid is a prayer.</p>
+<p>Let&#x27;s be blunt about what this means: Philadelphia&#x27;s entire season is a load-management high-wire act built around the least reliable knees in basketball. Embiid&#x27;s availability is the franchise. Hukporti was the insurance policy — young legs, real minutes, a body to throw at the 82-game grind so the MVP doesn&#x27;t have to absorb all of it. That policy just lapsed.</p>
+<p>The cruel math of the modern NBA: your most important player is your most fragile, and depth at his position is the thinnest commodity on the roster. One torn Achilles doesn&#x27;t just cost Philly a backup center. It costs them the margin for error they couldn&#x27;t afford to lose.</p>
+<p><strong>Why it matters:</strong> The Sixers&#x27; contention window isn&#x27;t about talent — it&#x27;s about availability. Every missed Embiid game now carries double weight, because there&#x27;s nobody behind him anymore.</p>]]></content:encoded>
     </item>
     <item>
       <title>The Rangers' season just left on a stretcher</title>
@@ -43,6 +71,11 @@
       <pubDate>Sat, 10 Oct 2026 09:15:00 -0400</pubDate>
       <description>Igor Shesterkin, helped off the ice. The Vezina winner is the franchise. There is no Plan B.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>Igor Shesterkin, helped off the ice. The Vezina winner is the franchise. There is no Plan B.</em></p>
+<p>Igor Shesterkin, helped off the ice in the second period. The 2022 Vezina winner, 30 years old, the entire foundation of the franchise — down in a loss, and the building went silent in the way buildings do when everyone does the same math at once.</p>
+<p>Here&#x27;s the math: the Rangers are a goalie-dependent team in a league that punishes goalie-dependent teams. Shesterkin doesn&#x27;t just stop pucks; he erases structural problems — the defensive lapses, the inconsistent five-on-five play, all of it gets laundered through a .930 save percentage. Take him out and you&#x27;re not looking at a worse version of the Rangers. You&#x27;re looking at a different, much more ordinary team.</p>
+<p>Meanwhile, in Colorado, Cale Makar signed for $163.2 million — the first $20 million player in NHL history. That&#x27;s the cap era&#x27;s new math: your best player gets paid like a small country, and you build around the number. The Rangers&#x27; math is simpler and scarier: no Shesterkin, no season. Everything else is commentary.</p>
+<p><strong>Why it matters:</strong> Cup windows are goalie windows. If this is weeks, it&#x27;s a slump. If it&#x27;s months, it&#x27;s a lost year — and a front office that has to answer why a contender had no credible insurance behind the most important player on the roster.</p>]]></content:encoded>
     </item>
     <item>
       <title>The Finals nobody drew up</title>
@@ -51,6 +84,11 @@
       <pubDate>Sat, 10 Oct 2026 09:15:00 -0400</pubDate>
       <description>A second-year expansion team just swept the champs. The WNBA's superteam era is over.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>A second-year expansion team just swept the champs. The WNBA&#x27;s superteam era is over.</em></p>
+<p>The Valkyries are going to the WNBA Finals. In year two. As an expansion team. They swept the defending champion Aces — closed it out 87-77 in overtime — and became the quickest expansion franchise in league history to reach the Finals.</p>
+<p>On the other side, Angel Reese dropped 22 as the Dream swept the Liberty 85-83 in Game 3 to punch their own ticket. &quot;Job is not done,&quot; Reese said. Correct. But also: look at what&#x27;s done. The Finals are a two-year-old franchise versus a team that finally broke through. No superteam. No dynasty. No inevitability.</p>
+<p>This is the thing about expansion done right: the Valkyries didn&#x27;t sneak in. They swept the champions. That&#x27;s not parity arriving gradually — that&#x27;s parity kicking the door in. The WNBA spent years as a league where you could pencil in the finalists before the season. Pencil&#x27;s broken now.</p>
+<p><strong>Why it matters:</strong> The league&#x27;s competitive balance is its best product argument. Casual fans don&#x27;t tune in for coronations; they tune in for chaos. This Finals is chaos, and it&#x27;s the most interesting thing the WNBA has staged in years.</p>]]></content:encoded>
     </item>
     <item>
       <title>The Yankees' winter of reckoning</title>
@@ -59,6 +97,11 @@
       <pubDate>Sat, 10 Oct 2026 09:15:00 -0400</pubDate>
       <description>Swept by the Rays. Judge watching from the dugout. The hot-seat debate is asking the wrong question.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>Swept by the Rays. Judge watching from the dugout. The hot-seat debate is asking the wrong question.</em></p>
+<p>Swept. By the Rays. In the Bronx, with the familiar October scene: someone else celebrating on their field. Aaron Judge sat in the home dugout afterward, stuck around to watch it, &quot;just hating every single moment of it.&quot;</p>
+<p>Now comes the hot-seat industrial complex. Boone. Cashman. The whole apparatus. And here&#x27;s the uncomfortable truth: this isn&#x27;t a managerial problem anymore. When the same movie plays three Octobers running — the bats going quiet, the pitching thinning out, the other dugout dogpiling — the common denominator isn&#x27;t the guy filling out the lineup card. It&#x27;s the roster.</p>
+<p>Firing the manager is the easy move. It&#x27;s also the wrong diagnosis. The Yankees&#x27; October failures are structural: a lineup built for the regular season&#x27;s long math that keeps failing the short series&#x27; cruel variance, a rotation that never has quite enough behind the ace, a farm system that produces trade chips instead of contributors.</p>
+<p><strong>Why it matters:</strong> The question this winter isn&#x27;t whether changes come — they will. It&#x27;s whether the Yankees finally admit the construction is the problem, or fire another manager and run it back with a new face on the same flawed blueprint. Judge is 34. The window isn&#x27;t closed. But it&#x27;s not propped open, either.</p>]]></content:encoded>
     </item>
     <item>
       <title>Ditka Dies at 86. The NFL Will Never Make Another One.</title>
@@ -67,6 +110,17 @@
       <pubDate>Sat, 10 Oct 2026 09:00:00 -0400</pubDate>
       <description>Mike Ditka — Hall of Fame tight end, Super Bowl-winning Bears coach, 50-year NFL fixture — is gone. He was the last of the sideline forces, and the league has no on-ramp for his kind anymore.</description>
       <category>AG Original</category>
+      <content:encoded><![CDATA[<p><em>Mike Ditka — Hall of Fame tight end, Super Bowl-winning Bears coach, 50-year NFL fixture — is gone. He was the last of the sideline forces, and the league has no on-ramp for his kind anymore.</em></p>
+<h2>The news</h2>
+<p>Mike Ditka died at 86. The wire copy is short, because it doesn&#x27;t need to be long: Hall of Fame tight end. The coach who won a Super Bowl with the Bears. A fixture in the NFL for more than 50 years.</p>
+<p>Fifty years. Read that again, then try to name anyone currently in the league who&#x27;ll get there.</p>
+<h2>Why it matters</h2>
+<p>Ditka was the last great specimen of an extinct species: the player whose authority on the sideline came from having been the most feared man on the field. He didn&#x27;t earn the locker room with a scheme or a spreadsheet. He walked in with a Hall of Fame résumé and a stare that ended arguments before they started.</p>
+<p>The modern head coach is a CEO in a visor — hired for systems design, clock management, quarterback development. That&#x27;s the job now, and there&#x27;s nothing wrong with it. But it means the force-of-nature archetype has no on-ramp anymore. You can&#x27;t promote what the pipeline stopped producing two decades ago. The league selects for tacticians now. It used to make room for terrors.</p>
+<h2>The texture</h2>
+<p>Here&#x27;s what fifty years in one league actually means: Ditka coached through the NFL&#x27;s entire metamorphosis — from bruising autumn pastime to the center of the American entertainment economy — without ever sanding himself down into a brand. He was, to the end, exactly what he looked like. In 2026, that reads less like stubbornness and more like a superpower.</p>
+<h2>The takeaway</h2>
+<p>The tributes will call him a throwback, and they&#x27;ll be right in the way obituaries usually are — which is to say, imprecise. Ditka wasn&#x27;t behind his time. He was the finished product of a time, fully formed, and it&#x27;s the time that&#x27;s actually gone. The league will keep minting brilliant tacticians. It won&#x27;t produce another Ditka, because it no longer has a use for one. That&#x27;s the part worth sitting with for a minute.</p>]]></content:encoded>
     </item>
     <item>
       <title>Boxing divisional rankings: Whittaker wins title eliminator to move up at light heavyweight</title>
