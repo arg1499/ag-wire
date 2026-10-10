@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>AG Complete Wire — Other Sports</title>
-    <description>AG Complete Wire — Other Sports — AG Complete Wire (local archive)</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:13:06 -0400</lastBuildDate>
+    <title>AG Complete Wire: Top Sports</title>
+    <description>The day's biggest sports stories across every sport.</description>
+    <lastBuildDate>Sat, 10 Oct 2026 08:32:32 -0400</lastBuildDate>
     <item>
-      <title>'McLaren will be furious!' - Was Norris to blame for Piastri collision?</title>
-      <link>https://www.skysports.com/f1/news/12040/13597104/singapore-gp-mclaren-will-be-furious-at-lando-norris-oscar-piastri-crash-during-sprint-says-martin-brundle</link>
-      <guid isPermaLink="false">agwire:8eb05e6a70e80b36</guid>
-      <pubDate>Sat, 10 Oct 2026 08:30:00 -0400</pubDate>
-      <description>The overtake Lando Norris attempted on Oscar Piastri that resulted in the McLaren team-mates crashing on the final lap of the Singapore Grand Prix Sprint was &quot;not smart&quot;, according to Sky Sports F1's Martin Brundle.</description>
+      <title>Boxing divisional rankings: Whittaker wins title eliminator to move up at light heavyweight</title>
+      <link>https://www.espn.com/boxing/story/_/id/21675272/divisional-rankings-best-top-10-fighters-per-division</link>
+      <guid isPermaLink="false">agwire:62688b8f8e29d3f3</guid>
+      <pubDate>Thu, 08 Oct 2026 15:19:50 -0400</pubDate>
+      <description>Ben Whittaker survived a late rally from Conor Wallace to move up in the light heavyweight order.</description>
     </item>
     <item>
-      <title>Verstappen wins wet Singapore Sprint after Russell crashes</title>
-      <link>https://www.skysports.com/f1/news/12040/13597101/singapore-gp-sprint-max-verstappen-beats-lewis-hamilton-after-george-russell-crashes-out-from-lead</link>
-      <guid isPermaLink="false">agwire:d7917e4c3266b728</guid>
-      <pubDate>Sat, 10 Oct 2026 07:30:00 -0400</pubDate>
-      <description>Max Verstappen won a rain-affected Singapore Grand Prix Sprint after George Russell dramatically crashed out from the lead.</description>
+      <title>UFC 332 results: Natalia Silva wins women's flyweight title in record-setting night</title>
+      <link>https://www.espn.com/mma/story/_/id/50068663/ufc-332-live-results-analysis-natalia-silva-vs-wang-cong</link>
+      <guid isPermaLink="false">agwire:7555df9992769bd6</guid>
+      <pubDate>Sun, 04 Oct 2026 00:27:26 -0400</pubDate>
+      <description>Natalia Silva defeated Wang Cong to claim the vacant women's flyweight title in the UFC 332 main event at the Delta Center in Salt Lake City.</description>
+    </item>
+    <item>
+      <title>2026 WNBA playoffs bracket, schedule: Valkyries and Dream advance to WNBA Finals with semifinal sweeps</title>
+      <link>https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/</link>
+      <guid isPermaLink="false">agwire:defb47357c7a75ad</guid>
+      <pubDate>Sat, 10 Oct 2026 00:07:32 -0400</pubDate>
+      <description>It will be Golden State vs.</description>
+    </item>
+    <item>
+      <title>Golden State Valkyries reach WNBA Finals: How second-year franchise made unprecedented run</title>
+      <link>https://www.cbssports.com/wnba/news/golden-state-valkyries-reach-wnba-finals-second-year-unprecedented-run/</link>
+      <guid isPermaLink="false">agwire:5d3329a9a71a2aa0</guid>
+      <pubDate>Sat, 10 Oct 2026 01:46:19 -0400</pubDate>
+      <description>The Valkyries, in just their second season, swept the reigning champion Aces in the semifinals</description>
+    </item>
+    <item>
+      <title>Dream, Angel Reese sweep Liberty: How Atlanta reached first WNBA Finals since 2013</title>
+      <link>https://www.cbssports.com/wnba/news/dream-liberty-angel-reese-wnba-finals/</link>
+      <guid isPermaLink="false">agwire:2431873d3e627f9c</guid>
+      <pubDate>Sat, 10 Oct 2026 00:24:54 -0400</pubDate>
+      <description>Atlanta, powered by Reese and Jordin Canada, pulled off the sweep with a two-point win on the road</description>
     </item>
     <item>
       <title>'We win major trophies here': Palmer signs new Chelsea contract</title>
@@ -26,146 +47,6 @@
       <description>Cole Palmer has signed a contract extension with Chelsea.</description>
     </item>
     <item>
-      <title>Leeds frustrating Arsenal LIVE!</title>
-      <link>https://www.skysports.com/football/arsenal-vs-leeds-united/live/559494</link>
-      <guid isPermaLink="false">agwire:21a5a3a1b8fe2e75</guid>
-      <pubDate>Sat, 10 Oct 2026 06:30:00 -0400</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>Ipswich vs Fulham team news LIVE!</title>
-      <link>https://www.skysports.com/football/ipswich-town-vs-fulham/live/559500</link>
-      <guid isPermaLink="false">agwire:ecf08a49c55ba40c</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 -0400</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>Dominant All Blacks score 50 points in big win over Australia</title>
-      <link>https://www.skysports.com/rugby-union/new-zealand-vs-australia/report/111859</link>
-      <guid isPermaLink="false">agwire:fee73fac261f03cc</guid>
-      <pubDate>Sat, 10 Oct 2026 05:29:00 -0400</pubDate>
-      <description>New Zealand will retain the Bledisloe Cup for a 24th year after powering to a 50-19 victory over Australia at Eden Park on Saturday.&amp;#160;</description>
-    </item>
-    <item>
-      <title>Sunderland vs Brighton LIVE!</title>
-      <link>https://www.skysports.com/football/sunderland-vs-brighton-and-hove-albion/live/559503</link>
-      <guid isPermaLink="false">agwire:6f9c708b852f751f</guid>
-      <pubDate>Mon, 28 Sep 2026 06:21:00 -0400</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>Aramco Korea Championship | Day three highlights</title>
-      <link>https://www.skysports.com/watch/video/13597146/aramco-korea-championship-day-three-highlights</link>
-      <guid isPermaLink="false">agwire:5f71a11723a74a66</guid>
-      <pubDate>Sat, 10 Oct 2026 05:42:00 -0400</pubDate>
-      <description>Highlights from the third round of the Aramco Korea Championship.</description>
-    </item>
-    <item>
-      <title>Singapore GP: Hamilton targets Verstappen pole fight in 2.30pm Qualifying</title>
-      <link>https://www.skysports.com/f1/live-blog/12040/13597107/f1-singapore-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-marina-bay-circuit-race-weekend</link>
-      <guid isPermaLink="false">agwire:f3f4a50038ebd958</guid>
-      <pubDate>Sat, 10 Oct 2026 04:50:00 -0400</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>England's Smith shines with Baycurrent Classic set for final-round thriller</title>
-      <link>https://www.skysports.com/watch/video/13597124/the-baycurrent-classic-day-three-highlights</link>
-      <guid isPermaLink="false">agwire:a9fb41a550dd2faa</guid>
-      <pubDate>Sat, 10 Oct 2026 04:06:00 -0400</pubDate>
-      <description>Highlights from the third round of the PGA Tour Baycurrent Classic.</description>
-    </item>
-    <item>
-      <title>Masked Man and Wellington Arch tackle Chepstow's Silver Trophy</title>
-      <link>https://www.skysports.com/racing/news/12040/13596603/today-on-sky-sports-racing-chepstow-hexham-and-southwell-feature-live-on-saturday</link>
-      <guid isPermaLink="false">agwire:9de1558cdd1ed22a</guid>
-      <pubDate>Sat, 10 Oct 2026 03:00:00 -0400</pubDate>
-      <description>We have a busy day's racing on Saturday with action from Chepstow, Hexham and Southwell, live on Sky Sports Racing...</description>
-    </item>
-    <item>
-      <title>As it happened - All Blacks POWER away vs Australia to retain Bledisloe Cup</title>
-      <link>https://www.skysports.com/rugby-union/live-blog/12040/13596789/new-zealand-vs-australia-live-all-blacks-host-wallabies-in-first-bledisloe-cup-test-updates-latest-scores-team-news-commentary</link>
-      <guid isPermaLink="false">agwire:6ed42b8eeec74f08</guid>
-      <pubDate>Sat, 10 Oct 2026 02:50:00 -0400</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>'You will see me back' - Smith vows 2027 return after Swiss Darts Trophy win</title>
-      <link>https://www.skysports.com/darts/news/12040/13597050/swiss-darts-trophy-former-world-champion-michael-smith-plans-on-playing-100-per-cent-of-the-tournaments-in-2027-after-opening-win</link>
-      <guid isPermaLink="false">agwire:77fdf762323a4486</guid>
-      <pubDate>Fri, 09 Oct 2026 19:05:00 -0400</pubDate>
-      <description>Former world champion Michael Smith says he plans on &quot;playing 100 per cent of the tournaments&quot; in 2027 after an opening win at the Swiss Darts Trophy.</description>
-    </item>
-    <item>
-      <title>Opetaia could fight Wilder on Fury-AJ undercard: 'He’s ready to go!'</title>
-      <link>https://www.skysports.com/boxing/news/12040/13597094/fury-vs-joshua-undercard-jai-opetaia-could-fight-deontay-wilder-on-principality-stadium-bill</link>
-      <guid isPermaLink="false">agwire:9ba695b48a282b14</guid>
-      <pubDate>Sat, 10 Oct 2026 03:00:00 -0400</pubDate>
-      <description>Deontay Wilder could fight Jai Opetaia on the undercard of the Tyson Fury vs Anthony Joshua blockbuster clash on December 11.</description>
-    </item>
-    <item>
-      <title>Papers: Man Utd forced into transfer market in January?</title>
-      <link>https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk</link>
-      <guid isPermaLink="false">agwire:afb20aadf85bd774</guid>
-      <pubDate>Fri, 09 Oct 2026 18:30:00 -0400</pubDate>
-      <description>The top stories and transfer rumours from Saturday's newspapers...</description>
-    </item>
-    <item>
-      <title>Arteta says conscience clear over time at Man City</title>
-      <link>https://www.skysports.com/football/news/12040/13596973/man-city-charges-arsenal-boss-mikel-arteta-says-he-has-clear-conscience-over-his-time-at-etihad-after-serious-breaches-of-financial-rules</link>
-      <guid isPermaLink="false">agwire:323fa6fb61c52621</guid>
-      <pubDate>Fri, 09 Oct 2026 18:30:00 -0400</pubDate>
-      <description>Mikel Arteta has said he has a clear conscience over his former club Manchester City's serious breaches of financial rules.</description>
-    </item>
-    <item>
-      <title>Wainwright opens Leicester account with Gloucester win in front of Prince Harry</title>
-      <link>https://www.skysports.com/rugby-union/news/12040/13597061/gallagher-prem-aaron-wainwright-scores-his-first-try-for-leicester-tigers-as-they-defeat-gloucester-in-front-of-prince-harry</link>
-      <guid isPermaLink="false">agwire:aa77891dee341bf5</guid>
-      <pubDate>Fri, 09 Oct 2026 18:22:00 -0400</pubDate>
-      <description>Wales back-rower Aaron Wainwright scored his first try for Leicester Tigers as they defeated Gloucester 38-31 in a forward-dominated contest in the Gallagher Prem watched by The Duke of Sussex, Prince Harry.</description>
-    </item>
-    <item>
-      <title>INCREDIBLE! QPR's Charles saves stoppage-time Bowen pen AND rebound!</title>
-      <link>https://www.skysports.com/watch/video/13597075/west-ham-vs-qpr-charles-the-hero-as-he-saves-bowens-penalty-and-the-rebound</link>
-      <guid isPermaLink="false">agwire:d5af6fe4e2bda2aa</guid>
-      <pubDate>Fri, 09 Oct 2026 17:56:00 -0400</pubDate>
-      <description>Pierce Charles was the QPR hero as he helped them secure a point away to West Ham by saving a last-minute penalty and the rebound.</description>
-    </item>
-    <item>
-      <title>Bowen's late penalty saved as West Ham held by QPR</title>
-      <link>https://www.skysports.com/football/west-ham-united-vs-queens-park-rangers/report/560605</link>
-      <guid isPermaLink="false">agwire:33e838455bfe4ecb</guid>
-      <pubDate>Fri, 09 Oct 2026 18:00:00 -0400</pubDate>
-      <description>Jarrod Bowen saw his 91st-minute penalty saved as West Ham missed the chance to move top of the Sky Bet Championship after a 1-1 draw with QPR.</description>
-    </item>
-    <item>
-      <title>White: Fury-AJ will be most lucrative gate in British boxing history</title>
-      <link>https://www.skysports.com/boxing/news/12040/13596848/fury-vs-joshua-will-draw-the-most-lucrative-gate-in-british-boxing-history-says-dana-white</link>
-      <guid isPermaLink="false">agwire:b6a82f454e91cbb8</guid>
-      <pubDate>Fri, 09 Oct 2026 17:00:00 -0400</pubDate>
-      <description>Tyson Fury vs Anthony Joshua will generate the most lucrative gate in British boxing history, Dana White tells Sky Sports .</description>
-    </item>
-    <item>
-      <title>Renshaw century puts Australia on top against South Africa - scorecard</title>
-      <link>https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:2d1ad036eff20cb2</guid>
-      <pubDate>Fri, 09 Oct 2026 20:00:00 -0400</pubDate>
-      <description>Latest scorecard from the first Test between South Africa and Australia in Durban.</description>
-    </item>
-    <item>
-      <title>Verstappen wins sprint after Russell crashes out</title>
-      <link>https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:95362d8471eac164</guid>
-      <pubDate>Sat, 10 Oct 2026 06:53:03 -0400</pubDate>
-      <description>Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.</description>
-    </item>
-    <item>
-      <title>Time to rise? Ranking European football's sleeping giants</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:c2e48d49505d7253</guid>
-      <pubDate>Sat, 10 Oct 2026 01:14:17 -0400</pubDate>
-      <description>From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?</description>
-    </item>
-    <item>
       <title>Palmer signs new Chelsea contract until 2034</title>
       <link>https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">agwire:3f4b9b61087a8e94</guid>
@@ -173,1082 +54,11 @@
       <description>Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the longest active deals in the Premier League.</description>
     </item>
     <item>
-      <title>'We lost the life of a brother' - rider protest delays Giro di Lombardia</title>
-      <link>https://www.bbc.co.uk/sport/cycling/articles/cqx2vm911870o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:47364badfb39fb8b</guid>
-      <pubDate>Sat, 10 Oct 2026 07:57:40 -0400</pubDate>
-      <description>Riders at the Giro di Lombardia stage a protest over safety concerns which delays the start of the race for five minutes.</description>
-    </item>
-    <item>
-      <title>All Blacks power past Australia to retain Bledisloe Cup</title>
-      <link>https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:70c779044e549238</guid>
-      <pubDate>Sat, 10 Oct 2026 05:21:28 -0400</pubDate>
-      <description>New Zealand retain the Bledisloe Cup for a 23rd straight year as they power past Australia to extend their remarkable unbeaten run at Eden Park.</description>
-    </item>
-    <item>
-      <title>Arteta's conscience clear over Man City charges</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:18049f291d54dea3</guid>
-      <pubDate>Fri, 09 Oct 2026 17:30:52 -0400</pubDate>
-      <description>Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.</description>
-    </item>
-    <item>
-      <title>Raphinha's brilliant Barcelona start interrupted by injury concerns</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:18aa29f11b04955a</guid>
-      <pubDate>Sat, 10 Oct 2026 04:27:28 -0400</pubDate>
-      <description>Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury.</description>
-    </item>
-    <item>
-      <title>Crocker sets sights on route back to the top</title>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cw073kk3800lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:7c34d3b68cf3f3ba</guid>
-      <pubDate>Sat, 10 Oct 2026 05:10:35 -0400</pubDate>
-      <description>Lewis Crocker is looking forward and not back at his world title defeat by Liam Paro as he prepares for his return against Owen Cooper in December at Belfast's 02.</description>
-    </item>
-    <item>
-      <title>Greek takeaways: What did we learn from Lionesses' win?</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:4eab1357e506f0f5</guid>
-      <pubDate>Fri, 09 Oct 2026 17:15:24 -0400</pubDate>
-      <description>England come away from Greece with a valuable first-leg lead in their Women's World Cup qualifying play-off - but who impressed in the 3-1 victory?</description>
-    </item>
-    <item>
-      <title>Who am I? Plus today's other quizzes</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:56a524028987e0c7</guid>
-      <pubDate>Sat, 10 Oct 2026 01:28:48 -0400</pubDate>
-      <description>Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.</description>
-    </item>
-    <item>
-      <title>Man City whistleblower to remain in witness protection</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:381724203790c31f</guid>
-      <pubDate>Fri, 09 Oct 2026 18:59:32 -0400</pubDate>
-      <description>The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.</description>
-    </item>
-    <item>
-      <title>Delight for Scotland's Cuthbert after long summer of recovery</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:a2614b2d0a42830b</guid>
-      <pubDate>Sat, 10 Oct 2026 04:28:17 -0400</pubDate>
-      <description>Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic.</description>
-    </item>
-    <item>
-      <title>I've got my own questions on Man City case - Carrick</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:32a29e7ef64525b8</guid>
-      <pubDate>Fri, 09 Oct 2026 10:30:38 -0400</pubDate>
-      <description>Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.</description>
-    </item>
-    <item>
-      <title>Irving leads Buccaneers to shock win over Cowboys</title>
-      <link>https://www.bbc.co.uk/sport/american-football/videos/ckqxn9j153gvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:d071362752492069</guid>
-      <pubDate>Fri, 09 Oct 2026 06:01:05 -0400</pubDate>
-      <description>Bucky Irving scores two touchdowns as the Tampa Bay Buccaneers get their first win of the season with a 24-16 victory at the Dallas Cowboys.</description>
-    </item>
-    <item>
-      <title>Carrick stays cool, but should he be worried about Man Utd's form?</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/c6x29vg0p7kko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:33df2a580ccdbb8e</guid>
-      <pubDate>Fri, 09 Oct 2026 03:36:24 -0400</pubDate>
-      <description>After three weeks off because of the international break, BBC Sport looks back at Manchester United's indifferent start to the new Premier League season, which saw Michael Carrick's side win just one of their opening five matches.</description>
-    </item>
-    <item>
-      <title>Highlights: Albania 0-1 Wales</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/crlyk7w4zp5xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:5eb17f4a1593cd71</guid>
-      <pubDate>Fri, 09 Oct 2026 14:20:41 -0400</pubDate>
-      <description>Watch the best of the action as Wales beat Albania in Shkoder</description>
-    </item>
-    <item>
-      <title>Yet to gel or same old struggles? - De Zerbi's Premier League dilemma</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cwp8g355me6no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:1637d57ba9162fa1</guid>
-      <pubDate>Fri, 09 Oct 2026 03:41:09 -0400</pubDate>
-      <description>After a three-week international break, Tottenham Hotspur return to Premier League action having won none of their opening five matches and sitting bottom of the table.</description>
-    </item>
-    <item>
-      <title>'Amazing' Kane targets 100 international goals</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:fe2b0e67659ce1da</guid>
-      <pubDate>Wed, 07 Oct 2026 16:31:17 -0400</pubDate>
-      <description>Striker Harry Kane says he could reach 100 goals for England after equalling his country's appearance record of 125, drawing praise from team-mates Morgan Rogers and Jude Bellingham.</description>
-    </item>
-    <item>
-      <title>Which clubs did Man City's 'inflated' money flow to in transfer market?</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:acff59cc76ea7deb</guid>
-      <pubDate>Fri, 02 Oct 2026 18:30:24 -0400</pubDate>
-      <description>BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.</description>
-    </item>
-    <item>
-      <title>What does Man City guilty verdict mean for their squad?</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:5082d17bc545b456</guid>
-      <pubDate>Fri, 02 Oct 2026 05:00:51 -0400</pubDate>
-      <description>BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.</description>
-    </item>
-    <item>
-      <title>The intricate web Man City spun to con the Premier League</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:1af9addb47ffa37a</guid>
-      <pubDate>Tue, 29 Sep 2026 16:58:17 -0400</pubDate>
-      <description>The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading.</description>
-    </item>
-    <item>
-      <title>The four 'what next?' scenarios for Premier League after Man City ruling</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:eb710b3f30ae77fc</guid>
-      <pubDate>Tue, 29 Sep 2026 13:37:54 -0400</pubDate>
-      <description>It has taken more than two years, but a judgement has finally been made on the 115 charges levelled against Manchester City.</description>
-    </item>
-    <item>
-      <title>Fury-Joshua tickets priced up to £13,000 sell out in one hour</title>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cwp9gxzyplk4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:4c8fef483a62d95f</guid>
-      <pubDate>Fri, 09 Oct 2026 08:51:41 -0400</pubDate>
-      <description>Tickets for Tyson Fury and Anthony Joshua's fight at Cardiff's Principality Stadium sells out in just one hour.</description>
-    </item>
-    <item>
-      <title>Sutton's predictions v Starsailor frontman James Walsh</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5zjx92v1mero?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:fb86ffa64822bdc0</guid>
-      <pubDate>Thu, 08 Oct 2026 16:46:40 -0400</pubDate>
-      <description>BBC Sport football expert Chris Sutton takes on Starsailor frontman James Walsh, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.</description>
-    </item>
-    <item>
-      <title>Wales must improve in World Cup bid - Wilkinson</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cw4g1z0g17x8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:b42969f6333d7840</guid>
-      <pubDate>Fri, 09 Oct 2026 15:34:54 -0400</pubDate>
-      <description>Rhian Wilkinson accepts Wales must raise their standards after they scrape to a 1-0 victory in their Women's World Cup play-off semi-final in Albania.</description>
-    </item>
-    <item>
-      <title>NI World Cup hopes gone from 'improbable to impossible'</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:3670de51f3d5995e</guid>
-      <pubDate>Fri, 09 Oct 2026 17:24:28 -0400</pubDate>
-      <description>Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off have &quot;gone from improbable to impossible&quot; after a 4-0 first leg defeat.</description>
-    </item>
-    <item>
-      <title>Arsenal eye deal for teenager Mora - Saturday's gossip</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:e46df6b573850c28</guid>
-      <pubDate>Fri, 09 Oct 2026 17:19:35 -0400</pubDate>
-      <description>Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick, Nottingham Forest braced for Murillo interest</description>
-    </item>
-    <item>
-      <title>Edwards joins Argentina as defence coach</title>
-      <link>https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:f2dcd7c4dbd4e972</guid>
-      <pubDate>Fri, 09 Oct 2026 12:43:14 -0400</pubDate>
-      <description>Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.</description>
-    </item>
-    <item>
-      <title>Could Manchester City be expelled from the Premier League?</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cm70p48l9v8vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:f658463848d68eca</guid>
-      <pubDate>Wed, 07 Oct 2026 07:44:57 -0400</pubDate>
-      <description>A panel of BBC Sport correspondents explore what sanctions Manchester City could face after being found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons.</description>
-    </item>
-    <item>
-      <title>Scotland let lead slip in abject defeat by Slovenia</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:b0feef9ab0355592</guid>
-      <pubDate>Tue, 06 Oct 2026 17:23:34 -0400</pubDate>
-      <description>Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden.</description>
-    </item>
-    <item>
-      <title>Watch: Every Messi World Cup goal for Argentina</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/c61kdn0nwld4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:462d669d7772e478</guid>
-      <pubDate>Wed, 07 Oct 2026 01:24:54 -0400</pubDate>
-      <description>Watch every World Cup goal scored by Lionel Messi, as the Argentina forward retires from international football.</description>
-    </item>
-    <item>
-      <title>Djokovic ends trophy drought with victory in China</title>
-      <link>https://www.bbc.co.uk/sport/tennis/videos/cw0k08n0rry4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:d0af2801e020ed3f</guid>
-      <pubDate>Tue, 06 Oct 2026 12:48:18 -0400</pubDate>
-      <description>Novak Djokovic wins the China Open for a seventh time after Alex de Minaur retires in the final in Beijing, as the Serb wins the 102nd title of his career.</description>
-    </item>
-    <item>
-      <title>Saints thrashed as Falcons score six touchdowns</title>
-      <link>https://www.bbc.co.uk/sport/american-football/videos/c6n8dg004dk1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:9613f71e29d393cc</guid>
-      <pubDate>Tue, 06 Oct 2026 06:12:43 -0400</pubDate>
-      <description>Bijan Robinson scores two rushing touchdowns and Brian Robinson scores three as Atlanta Falcons beat New Orleans Saints 45-24.</description>
-    </item>
-    <item>
-      <title>What reception awaits Man City at Anfield?</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:d1a6858078e2870c</guid>
-      <pubDate>Fri, 09 Oct 2026 10:02:46 -0400</pubDate>
-      <description>Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.</description>
-    </item>
-    <item>
-      <title>Everton up for sale again - so what next as owners TFG look for a way out?</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:d70eba0f9964861e</guid>
-      <pubDate>Fri, 09 Oct 2026 11:38:59 -0400</pubDate>
-      <description>Everton are up for sale again.</description>
-    </item>
-    <item>
-      <title>'Good value in pub' - ex-NFL star Kelce tries rugby</title>
-      <link>https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:bd18f86601aa1994</guid>
-      <pubDate>Fri, 09 Oct 2026 09:40:57 -0400</pubDate>
-      <description>Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game.</description>
-    </item>
-    <item>
-      <title>Wimbledon boss jokes military would love to 'sort out' influencers</title>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/crly0n5j79n5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:e73aad98725f4443</guid>
-      <pubDate>Fri, 09 Oct 2026 07:18:22 -0400</pubDate>
-      <description>Royal Marine Commandos providing security at Wimbledon would like &quot;nothing more than to sort out&quot; disruptive social media influencers at the prestigious tournament, its chief executive jokes.</description>
-    </item>
-    <item>
-      <title>Decision to stay at Celtic did not take long - O'Neill</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cm89z77egpw5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:35012f8b57174b18</guid>
-      <pubDate>Fri, 09 Oct 2026 12:04:03 -0400</pubDate>
-      <description>Martin O'Neill suggests he was never close to leaving Celtic after a three-game losing streak, with the veteran manager stressing his &quot;great enthusiasm&quot; for the role.</description>
-    </item>
-    <item>
-      <title>Ex-Essex cricketer faces trial on two rape charges</title>
-      <link>https://www.bbc.co.uk/news/articles/ck5yn6325wj2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:495e2b5bb27078fb</guid>
-      <pubDate>Fri, 09 Oct 2026 10:07:34 -0400</pubDate>
-      <description>Robin Das, 24, will appear before a jury at Inner London Crown Court in January 2028.</description>
-    </item>
-    <item>
-      <title>Leicester battle back to beat Gloucester</title>
-      <link>https://www.bbc.co.uk/sport/rugby-union/articles/c6rry9q0xywno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:e67ed933282b43af</guid>
-      <pubDate>Fri, 09 Oct 2026 16:46:29 -0400</pubDate>
-      <description>Leicester Tigers recover from a disastrous start to battle back and beat Gloucester for their first home win of the season.</description>
-    </item>
-    <item>
-      <title>Highlights: Northern Ireland frustrated by Georgia</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/ck5ynp3ej7m8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:708dae5bff520af9</guid>
-      <pubDate>Mon, 05 Oct 2026 17:56:05 -0400</pubDate>
-      <description>Watch highlights as Northern Ireland end the extended window with a 0-0 Nations League draw against Georgia at Windsor Park.</description>
-    </item>
-    <item>
-      <title>What's it like to be the World Cup final referee?</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/ck86zq03wznlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:6fca3925ede5c75c</guid>
-      <pubDate>Tue, 06 Oct 2026 09:35:46 -0400</pubDate>
-      <description>Slavko Vincic, who refereed the 2026 World Cup final, reveals what it's like to take charge of the biggest game in football.</description>
-    </item>
-    <item>
-      <title>Marsch calls USA politics 'big talk' as Pochettino praises Canada coach</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cwdr8d6kr8mlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:168d02f35f0d15e0</guid>
-      <pubDate>Tue, 06 Oct 2026 11:54:22 -0400</pubDate>
-      <description>Canada manager Jesse Marsch calls USA politics &quot;big talk&quot; while US coach Mauricio Pochettino praises his opposite number before Tuesday's game.</description>
-    </item>
-    <item>
-      <title>Jesus fires back over Ronaldo question</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/ckn8wjezz462o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:a08ff0eb0beb2d8c</guid>
-      <pubDate>Mon, 05 Oct 2026 11:24:54 -0400</pubDate>
-      <description>Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing time.</description>
-    </item>
-    <item>
-      <title>All the goals from the Women's Super League - matchweek five</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:cd270c30da2faada</guid>
-      <pubDate>Mon, 05 Oct 2026 04:55:39 -0400</pubDate>
-      <description>Watch every goal from matchweek five of the Women's Super League 2026-27 season.</description>
-    </item>
-    <item>
-      <title>Man City fight back to beat struggling Arsenal</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:832cc3a2d116da07</guid>
-      <pubDate>Sun, 04 Oct 2026 17:20:21 -0400</pubDate>
-      <description>Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers.</description>
-    </item>
-    <item>
-      <title>Find out more here</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/ce8e6y90g2jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:e42e0988796ef840</guid>
-      <pubDate>Mon, 08 Jun 2026 06:33:57 -0400</pubDate>
-      <description>Get the latest transfer news and gossip ahead of the new season</description>
-    </item>
-    <item>
-      <title>London City hit Tottenham for six to end unbeaten run</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cwm2r4xn4ed1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:cbb93277a1b9ad67</guid>
-      <pubDate>Sun, 04 Oct 2026 14:53:21 -0400</pubDate>
-      <description>Alexia Putellas and Kadidiatou Diani both scored twice as London City Lionesses put six goals past Tottenham to end Spurs' unbeaten start to the Women's Super League.</description>
-    </item>
-    <item>
-      <title>Toone determined to come back better after 'difficult week'</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cjx239vvql0qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:bfbf9431570a7242</guid>
-      <pubDate>Sat, 03 Oct 2026 11:33:16 -0400</pubDate>
-      <description>Ella Toone reflects on a &quot;difficult week&quot; and looks back on a narrow win against Liverpool in the Women's Super League.</description>
-    </item>
-    <item>
       <title>Wakefield beat Warrington to become champions for first time since 1968</title>
       <link>https://www.bbc.co.uk/sport/rugby-league/videos/c6j9xkr7v92go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">agwire:29c477677357c008</guid>
       <pubDate>Sat, 03 Oct 2026 18:08:12 -0400</pubDate>
       <description>Two years on from relegation, Wakefield Trinity are crowned Super League Grand Final champions after beating Warrington Wolves 23-10 at Old Trafford and win their first title since 1968.</description>
-    </item>
-    <item>
-      <title>Sabalenka crashes out of China Open after defeat by Bartunkova</title>
-      <link>https://www.bbc.co.uk/sport/tennis/videos/cme3xwl1gjjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:027e426531adc691</guid>
-      <pubDate>Sun, 04 Oct 2026 07:48:40 -0400</pubDate>
-      <description>World number two Aryna Sabalenka crashes out of the China Open after a surprise straight-set defeat by 34th-ranked Nikola Bartunkova.</description>
-    </item>
-    <item>
-      <title>'We fought for every ball' - Hemp on Man City's thrilling win</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cqly0lgy37z8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:63b7d9925ab5adcf</guid>
-      <pubDate>Sun, 04 Oct 2026 14:20:05 -0400</pubDate>
-      <description>Two-goal Lauren Hemp says Manchester City showed passion and character in their 4-2 win over Arsenal in the WSL.</description>
-    </item>
-    <item>
-      <title>Chaotic end to Republic of Ireland news conference</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cmqjnl8rjn7wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:eb06f1ff706cd5ae</guid>
-      <pubDate>Sat, 03 Oct 2026 10:17:30 -0400</pubDate>
-      <description>Republic of Ireland manager Heimir Hallgrimsson's news conference comes to a chaotic end.</description>
-    </item>
-    <item>
-      <title>Watch: Thistle narrow gap &amp; big wins for County and Elgin</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/c6m249d90491o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:30ea525d71f2cfb8</guid>
-      <pubDate>Mon, 05 Oct 2026 03:00:53 -0400</pubDate>
-      <description>Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.</description>
-    </item>
-    <item>
-      <title>NI debut 'something I thought had passed' - Elmore</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/ck7vpdz0lnmvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:cfacc9ede47b423d</guid>
-      <pubDate>Sat, 10 Oct 2026 05:19:45 -0400</pubDate>
-      <description>Northern Ireland's World Cup hopes may have all but come to an end against Portugal, but for Kess Elmore the 4-0 defeat marks the start of a long-awaited international journey.</description>
-    </item>
-    <item>
-      <title>Rivals: Messi v Ronaldo</title>
-      <link>https://www.bbc.co.uk/iplayer/episode/m002xj2m?at_mid=F7CszfhtNh&amp;at_campaign=Rivals_Messi_v_Ronaldo&amp;at_medium=display_ad&amp;at_campaign_type=owned&amp;at_nation=NET&amp;at_audience_id=SS&amp;at_product=iplayer&amp;at_brand=m002xj2m&amp;at_ptr_name=bbc&amp;at_ptr_type=media&amp;at_format=image&amp;at_objective=consumption&amp;at_link_title=Rivals_Messi_v_Ronaldo&amp;at_bbc_team=BBC</link>
-      <guid isPermaLink="false">agwire:4f7f44e047db6c65</guid>
-      <pubDate>Fri, 05 Jun 2026 01:00:00 -0400</pubDate>
-      <description>How Lionel Messi and Cristiano Ronaldo didn't just dominate their era.</description>
-    </item>
-    <item>
-      <title>Ticket rises and more TV packages - why is price of sport increasing?</title>
-      <link>https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:206a083bdbece0b4</guid>
-      <pubDate>Thu, 08 Oct 2026 14:57:13 -0400</pubDate>
-      <description>The price of sports tickets and TV subscriptions are on the rise - so what is behind the increases and how are they justified?</description>
-    </item>
-    <item>
-      <title>How Arteta's response to Brighton loss may shape Arsenal's next chapter</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/crn8wg221lnvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:4872067d1002721c</guid>
-      <pubDate>Fri, 09 Oct 2026 02:41:14 -0400</pubDate>
-      <description>Mikel Arteta has shown an increased appetite for risk this season but, as Arsenal look to stay at the top, failing to reinvent would be a greater gamble.</description>
-    </item>
-    <item>
-      <title>How Brighton attract and develop the best young players ahead of their rivals</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:ef398e6625dac094</guid>
-      <pubDate>Thu, 08 Oct 2026 06:37:14 -0400</pubDate>
-      <description>Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and nurtures the best young talent in the game.</description>
-    </item>
-    <item>
-      <title>Engine size limits and working with Iraola - the Liverpool academy approach</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cmx2z9z10wezo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:01c90bf4c307c901</guid>
-      <pubDate>Thu, 08 Oct 2026 03:04:50 -0400</pubDate>
-      <description>Liverpool academy director Alex Inglethorpe talks to BBC Sport about the value and future of Liverpool's academy.</description>
-    </item>
-    <item>
-      <title>Inside the £1-an-hour official football shirt factories</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:b7baefceb18e2f95</guid>
-      <pubDate>Thu, 08 Oct 2026 01:48:17 -0400</pubDate>
-      <description>A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers are paid less than £1 an hour.</description>
-    </item>
-    <item>
-      <title>She made India fall in love with women's cricket - now her era as captain is over</title>
-      <link>https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:2f7b19ff17cac2b1</guid>
-      <pubDate>Wed, 07 Oct 2026 19:31:00 -0400</pubDate>
-      <description>The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.</description>
-    </item>
-    <item>
-      <title>How an 'absolute fluke' exposed sandpapergate scandal</title>
-      <link>https://www.bbc.co.uk/sport/cricket/articles/c3qjn05lr4n7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:93267ba3fe64233c</guid>
-      <pubDate>Wed, 07 Oct 2026 10:28:55 -0400</pubDate>
-      <description>How a team of South Africa camera operators discovered Australia's sandpapergate scandal as it happened.</description>
-    </item>
-    <item>
-      <title>Faster than F1: The extreme motorsport where women keep winning</title>
-      <link>https://www.bbc.co.uk/sport/motorsport/articles/c68xkx9gqv89o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:b57b69996c613810</guid>
-      <pubDate>Thu, 08 Oct 2026 01:41:20 -0400</pubDate>
-      <description>Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles.</description>
-    </item>
-    <item>
-      <title>The part-timers who won three Wembley finals in a row</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:b336d0141e477a6a</guid>
-      <pubDate>Wed, 30 Sep 2026 02:07:28 -0400</pubDate>
-      <description>You probably knew Pep Guardiola's Manchester City won four League Cups on the bounce between 2018 and 2021 – but another side did the silverware hat-trick first.</description>
-    </item>
-    <item>
-      <title>A team that offered hope... then, four months later, Hamas attacked Israel</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:446d93d7667e9e83</guid>
-      <pubDate>Thu, 17 Sep 2026 01:23:59 -0400</pubDate>
-      <description>Can the potential of a golden generation of Israel's footballers, in sport and society, be realised?</description>
-    </item>
-    <item>
-      <title>Are women better than men at endurance running?</title>
-      <link>https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:dc438861ea820420</guid>
-      <pubDate>Wed, 09 Sep 2026 02:27:02 -0400</pubDate>
-      <description>Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?</description>
-    </item>
-    <item>
-      <title>Arsenal had more than 20 players on shortlist to capitalise on title win</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:e8fa9ff76ddab56c</guid>
-      <pubDate>Sat, 05 Sep 2026 15:08:30 -0400</pubDate>
-      <description>Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.</description>
-    </item>
-    <item>
-      <title>'My position now is as one of two 10s' - Kane breaks down his evolution</title>
-      <link>https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:b612229085c34a91</guid>
-      <pubDate>Fri, 04 Sep 2026 05:31:21 -0400</pubDate>
-      <description>Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder.</description>
-    </item>
-    <item>
-      <title>What happens when an athlete has a life-changing accident?</title>
-      <link>https://www.bbc.co.uk/sport/canoeing/articles/cgjep9e7pxvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">agwire:bf7c198b47425a2d</guid>
-      <pubDate>Wed, 26 Aug 2026 02:35:01 -0400</pubDate>
-      <description>Saffron Cresswell was a promising eventer before a fall left her paralysed.</description>
-    </item>
-    <item>
-      <title>Rahm leaving LIV Golf in blow to future of bankrupt league</title>
-      <link>https://www.espn.com/golf/story/_/id/50126362/jon-rahm-leaving-liv-golf-blow-future-bankrupt-league</link>
-      <guid isPermaLink="false">agwire:0b5750077a4e5fdb</guid>
-      <pubDate>Wed, 07 Oct 2026 16:55:14 -0400</pubDate>
-      <description>Two-time major champion Jon Rahm is leaving the LIV Golf League and is working to finalize a separation agreement by Oct.</description>
-    </item>
-    <item>
-      <title>Scott, Thomas move into contention at PGA Tour's Baycurrent Classic</title>
-      <link>https://www.espn.com/golf/story/_/id/50146046/scott-thomas-move-contention-pga-tour-baycurrent-classic</link>
-      <guid isPermaLink="false">agwire:b53db8b99a9212b4</guid>
-      <pubDate>Sat, 10 Oct 2026 07:05:28 -0400</pubDate>
-      <description>Adam Scott and Justin Thomas moved into contention at the PGA Tour's Baycurrent Classic in Japan on Saturday, one stroke off the lead after three rounds at the Yokohama Country Club.</description>
-    </item>
-    <item>
-      <title>Hillier wins electric BMW SUV with hole-in-one at Spanish Open</title>
-      <link>https://www.espn.com/golf/story/_/id/50134347/daniel-hillier-wins-bmw-suv-hole-one-mishit</link>
-      <guid isPermaLink="false">agwire:a013ec1bd82500af</guid>
-      <pubDate>Thu, 08 Oct 2026 18:41:24 -0400</pubDate>
-      <description>Daniel Hillier aced the 187-yard par-3 17th hole at the Spanish Open despite a mis-hit and won a BMW iX5 SUV valued at about $157,000.</description>
-    </item>
-    <item>
-      <title>Merion Golf Club becomes USGA's fourth anchor site for marquee events</title>
-      <link>https://www.espn.com/golf/story/_/id/50134202/merion-golf-club-becomes-usga-fourth-anchor-site</link>
-      <guid isPermaLink="false">agwire:80de52bb16701ed7</guid>
-      <pubDate>Thu, 08 Oct 2026 14:43:05 -0400</pubDate>
-      <description>The U.S. Golf Association is adding Merion Golf Club outside Philadelphia as its fourth anchor site, meaning the storied club will host multiple USGA championships over the next 25 years.</description>
-    </item>
-    <item>
-      <title>Bridgeman holds one-shot lead at Baycurrent Classic in Japan</title>
-      <link>https://www.espn.com/golf/story/_/id/50133430/bridgeman-8-holds-one-shot-lead-baycurrent-classic-japan</link>
-      <guid isPermaLink="false">agwire:64a9c2226cb89bcd</guid>
-      <pubDate>Thu, 08 Oct 2026 13:12:48 -0400</pubDate>
-      <description>Jacob Bridgeman birdied four of his last five holes Thursday for an 8-under 63 to take a one-shot lead over Jordan Smith in the Baycurrent Classic in Yokohama, Japan.</description>
-    </item>
-    <item>
-      <title>LPGA's '27 slate features higher purses, better travel efficiency</title>
-      <link>https://www.espn.com/golf/story/_/id/50127564/lpga-27-schedule-features-higher-purses-better-travel-efficiency</link>
-      <guid isPermaLink="false">agwire:7fc3f716f8d6b344</guid>
-      <pubDate>Wed, 07 Oct 2026 18:10:41 -0400</pubDate>
-      <description>The LPGA Tour 2027 schedule will feature 33 tournaments, a record $147 million in prize money and a more efficient travel itinerary for its players.</description>
-    </item>
-    <item>
-      <title>3-time champ Rahm skips Spanish Open to await birth of fourth child</title>
-      <link>https://www.espn.com/golf/story/_/id/50118312/jon-rahm-skips-spanish-open-await-birth-fourth-child</link>
-      <guid isPermaLink="false">agwire:f774effe045146e1</guid>
-      <pubDate>Tue, 06 Oct 2026 15:12:33 -0400</pubDate>
-      <description>Three-time Spanish Open champion Jon Rahm will not play in his home tournament this week as he waits for the birth of his fourth child.</description>
-    </item>
-    <item>
-      <title>How the U.S. won the Presidents Cup and what it means moving forward</title>
-      <link>https://www.espn.com/golf/story/_/id/50047421/how-us-won-presidents-cup-means-moving-forward</link>
-      <guid isPermaLink="false">agwire:3bb930586ce50957</guid>
-      <pubDate>Sun, 27 Sep 2026 22:43:33 -0400</pubDate>
-      <description>What were the keys to the comeback?</description>
-    </item>
-    <item>
-      <title>Top takeaways from LIV Golf's bankruptcy filings</title>
-      <link>https://www.espn.com/golf/story/_/id/49893153/takeaways-liv-golf-bankruptcy-filings-player-contracts</link>
-      <guid isPermaLink="false">agwire:d12cdeaf25c53867</guid>
-      <pubDate>Thu, 10 Sep 2026 20:51:56 -0400</pubDate>
-      <description>Here are some of the main takeaways from LIV Golf's bankruptcy filings, including its plans for player compensation.</description>
-    </item>
-    <item>
-      <title>Golf, but quieter: Is this the end of LIV Golf?</title>
-      <link>https://www.espn.com/golf/story/_/id/49704816/is-music-end-liv-golf-uncertain-future-indianapolis</link>
-      <guid isPermaLink="false">agwire:35c0318fb4358168</guid>
-      <pubDate>Sun, 23 Aug 2026 23:43:23 -0400</pubDate>
-      <description>The 2026 LIV Golf season wrapped up in Indianapolis.</description>
-    </item>
-    <item>
-      <title>Furyk: Americans, aiming to end Ryder Cup skid, are 'underdogs' in 2027</title>
-      <link>https://www.espn.com/golf/story/_/id/50118205/jim-furyk-americans-underdogs-2027-ryder-cup</link>
-      <guid isPermaLink="false">agwire:2f20e93ff579b1c3</guid>
-      <pubDate>Tue, 06 Oct 2026 18:14:01 -0400</pubDate>
-      <description>U.S. captain Jim Furyk acknowledged that the Americans are &quot;the underdogs&quot; at next year's Ryder Cup in Ireland.</description>
-    </item>
-    <item>
-      <title>Reed proud his 'clubs do the talking' in road back to PGA Tour</title>
-      <link>https://www.espn.com/golf/story/_/id/50117189/patrick-reed-proud-clubs-do-talking-road-back-pga-tour</link>
-      <guid isPermaLink="false">agwire:cc6ad262c3a7b5bc</guid>
-      <pubDate>Tue, 06 Oct 2026 12:36:05 -0400</pubDate>
-      <description>There were many unknowns when Patrick Reed decided not to renew his contract with LIV Golf and start the long road back to the PGA Tour.</description>
-    </item>
-    <item>
-      <title>Thitikul wins in Hawaii for fourth victory this season</title>
-      <link>https://www.espn.com/golf/story/_/id/50107093/jeeno-thitikul-wins-hawaii-4th-lpga-tour-victory-season</link>
-      <guid isPermaLink="false">agwire:68e46b48d1a7d1bf</guid>
-      <pubDate>Mon, 05 Oct 2026 00:30:41 -0400</pubDate>
-      <description>Jeeno Thitikul of Thailand quickly overcame a late double bogey to win the LOTTE Championship for her fourth LPGA Tour victory of the season.</description>
-    </item>
-    <item>
-      <title>Smotherman captures first PGA Tour title in 100th career start</title>
-      <link>https://www.espn.com/golf/story/_/id/50105931/austin-smotherman-wins-pga-tour-bank-utah-championship</link>
-      <guid isPermaLink="false">agwire:ec6fc300fabb8eb8</guid>
-      <pubDate>Mon, 05 Oct 2026 01:51:57 -0400</pubDate>
-      <description>- Austin Smotherman recovered from his lone blunder with two great shots and was able to cruise home to a 3-under 68 on Sunday to win the Bank of Utah Championship, his first PGA Tour victory in his 100th career start.</description>
-    </item>
-    <item>
-      <title>LIV's Meronk wins Dunhill Links, secures European tour card</title>
-      <link>https://www.espn.com/golf/story/_/id/50100660/liv-adrian-meronk-wins-dunhill-links-gets-european-tour-card</link>
-      <guid isPermaLink="false">agwire:065a1710bda1db9b</guid>
-      <pubDate>Sun, 04 Oct 2026 16:04:15 -0400</pubDate>
-      <description>Adrian Meronk rallied past an unsteady Casey Jarvis to win the Dunhill Links Championship on Sunday, earning a full card on the DP World Tour for 2027.</description>
-    </item>
-    <item>
-      <title>Seeking 4th LPGA Tour victory of season, Thitikul leads in Honolulu</title>
-      <link>https://www.espn.com/golf/story/_/id/50096595/leader-jeeno-thitikul-seeks-4th-lpga-tour-victory-season</link>
-      <guid isPermaLink="false">agwire:a300e4578a0c3a20</guid>
-      <pubDate>Sun, 04 Oct 2026 15:00:45 -0400</pubDate>
-      <description>Second-ranked Jeeno Thitikul of Thailand took a three-stroke lead in the LOTTE Championship in a bid for her fourth LPGA Tour victory of the season.</description>
-    </item>
-    <item>
-      <title>Austin Smotherman leads in Utah, takes aim at first PGA Tour title</title>
-      <link>https://www.espn.com/golf/story/_/id/50095449/austin-smotherman-leads-utah-takes-aim-first-pga-tour-title</link>
-      <guid isPermaLink="false">agwire:4181e8404d17e0de</guid>
-      <pubDate>Sat, 03 Oct 2026 23:02:21 -0400</pubDate>
-      <description>Austin Smotherman had an answer every time someone caught up to him in the Bank of Utah Championship.</description>
-    </item>
-    <item>
-      <title>South Korean golfer Kim gets military exemption with Asian Games gold</title>
-      <link>https://www.espn.com/olympics/story/_/id/50089581/south-korean-golfer-kim-gets-military-exemption-asian-games-gold</link>
-      <guid isPermaLink="false">agwire:5e7e24c88b6879c3</guid>
-      <pubDate>Sat, 03 Oct 2026 09:10:42 -0400</pubDate>
-      <description>South Korean golfer Tom Kim got what he came for by winning the men's singles on Saturday at the Asian Games: a gold medal and an exemption from military service back home.</description>
-    </item>
-    <item>
-      <title>Thitikul, Mack birdie 18th for share of lead in LOTTE Championship</title>
-      <link>https://www.espn.com/golf/story/_/id/50088410/jeeno-thitikul-polly-mack-birdie-18th-share-lead-honolulu</link>
-      <guid isPermaLink="false">agwire:b872e582da91bd84</guid>
-      <pubDate>Sat, 03 Oct 2026 01:37:39 -0400</pubDate>
-      <description>Second-ranked Jeeno Thitikul of Thailand made a 12-foot birdie putt on the par-5 18th for a 7-under 65 a share of the second-round lead Friday in the LPGA Tour's LOTTE Championship.</description>
-    </item>
-    <item>
-      <title>UN human rights office slams racist abuse of Gauff</title>
-      <link>https://www.espn.com/tennis/story/_/id/50146685/un-human-rights-office-slams-racist-abuse-coco-gauff</link>
-      <guid isPermaLink="false">agwire:8249ee6c35a01901</guid>
-      <pubDate>Sat, 10 Oct 2026 08:55:06 -0400</pubDate>
-      <description>The United Nations' human rights office has condemned the racist abuse of tennis player Coco Gauff and called for solidarity to help push back against racism and sexism.</description>
-    </item>
-    <item>
-      <title>Alex Eala looks to turn Asian Games lessons into Wuhan Open breakthrough</title>
-      <link>https://www.espn.com/tennis/story/_/id/50143106/alex-eala-looks-turn-asian-games-lessons-wuhan-open-breakthrough</link>
-      <guid isPermaLink="false">agwire:e14b797a25b07c61</guid>
-      <pubDate>Fri, 09 Oct 2026 19:52:26 -0400</pubDate>
-      <description>After a bronze medal finish in the 20th Asian Games, Alex Eala now shifts her attention back to the Asian swing as she prepares to compete in the 2026 Wuhan Open.</description>
-    </item>
-    <item>
-      <title>Mertens stops Swiatek to reach China Open semifinals</title>
-      <link>https://www.espn.com/tennis/story/_/id/50141092/elise-mertens-beats-iga-swiatek-reach-china-open-semis</link>
-      <guid isPermaLink="false">agwire:1861906d1f49dbbd</guid>
-      <pubDate>Fri, 09 Oct 2026 13:27:07 -0400</pubDate>
-      <description>Elise Mertens beat her third Grand Slam winner during her China Open run, besting Iga Swiatek in straight sets to reach the semifinals in Beijing.</description>
-    </item>
-    <item>
-      <title>Djokovic loses to Hurkacz in 2nd round at Shanghai Masters</title>
-      <link>https://www.espn.com/tennis/story/_/id/50140603/novak-djokovic-beaten-hubert-hurkacz-shanghai-masters</link>
-      <guid isPermaLink="false">agwire:f0168c8e4ed3c106</guid>
-      <pubDate>Fri, 09 Oct 2026 12:36:47 -0400</pubDate>
-      <description>Novak Djokovic was knocked out of the Shanghai Masters after a shock second-round loss to Hubert Hurkacz on Friday.</description>
-    </item>
-    <item>
-      <title>Shelton celebrates 24th birthday with straight-sets win, moves on in Shanghai</title>
-      <link>https://www.espn.com/tennis/story/_/id/50138247/shelton-breezes-straight-sets-win-advance-shanghai</link>
-      <guid isPermaLink="false">agwire:dbc01731be9a0cad</guid>
-      <pubDate>Fri, 09 Oct 2026 03:55:58 -0400</pubDate>
-      <description>On his 24th birthday, Ben Shelton defeated Daniel Altmaier 6-3, 7-6 (6) to advance to the third round of the Shanghai Masters.</description>
-    </item>
-    <item>
-      <title>Djokovic to reach out to Sinner about returning from long layoff</title>
-      <link>https://www.espn.com/tennis/story/_/id/50133356/djokovic-reach-sinner-returning-long-layoff</link>
-      <guid isPermaLink="false">agwire:5c8fce5eb0ab8d12</guid>
-      <pubDate>Thu, 08 Oct 2026 12:46:58 -0400</pubDate>
-      <description>Novak Djokovic plans to reach out to Jannik Sinner after an injury ended the top-ranked player's season, saying Thursday he knows how difficult it is to come back after a lengthy layoff.</description>
-    </item>
-    <item>
-      <title>Andreeva, Bartunkova reach China Open semis</title>
-      <link>https://www.espn.com/tennis/story/_/id/50133019/andreeva-bartunkova-reach-china-open-semis-straight-set-wins</link>
-      <guid isPermaLink="false">agwire:12edd86340a1c604</guid>
-      <pubDate>Thu, 08 Oct 2026 11:57:26 -0400</pubDate>
-      <description>Mirra Andreeva and Nikola Bartunkova advanced to the semifinals of the China Open with straight-sets victories Thursday in Beijing.</description>
-    </item>
-    <item>
-      <title>Tsitsipas advances to Shanghai second round; Hurkacz lines up Djokovic</title>
-      <link>https://www.espn.com/tennis/story/_/id/50131889/tsitsipas-advances-shanghai-hurkacz-lines-djokovic</link>
-      <guid isPermaLink="false">agwire:ab5ceed804f74b22</guid>
-      <pubDate>Thu, 08 Oct 2026 07:41:32 -0400</pubDate>
-      <description>Two-time major finalist Stefanos Tsitsipas beat Kimmer Coppejans in the Shanghai Masters first round to continue his slow climb back up the ATP rankings, while Hubert Hurkacz had 19 aces in a win over James Duckworth and next plays Novak D…</description>
-    </item>
-    <item>
-      <title>Alcaraz, Gauff, Sinner among players signed up for 1 Point Slam</title>
-      <link>https://www.espn.com/tennis/story/_/id/50130501/alcaraz-osaka-sinner-players-signed-january-1-point-slam</link>
-      <guid isPermaLink="false">agwire:e380a76676cb1b5b</guid>
-      <pubDate>Thu, 08 Oct 2026 01:51:00 -0400</pubDate>
-      <description>The Australian Open's 1 Point Slam will again have some star power in January with Carlos Alcaraz, Coco Gauff, Naomi Osaka and Jannik Sinner among the players set to compete against pros and amateur qualifiers for a 1 million Australian do…</description>
-    </item>
-    <item>
-      <title>Gauff falls to Mertens, says abusive comments were 'draining'</title>
-      <link>https://www.espn.com/tennis/story/_/id/50123832/coco-gauff-takes-first-career-loss-elise-mertens</link>
-      <guid isPermaLink="false">agwire:5b21fc886b676ed2</guid>
-      <pubDate>Wed, 07 Oct 2026 15:55:20 -0400</pubDate>
-      <description>Coco Gauff lost to Elise Mertens, whom she had beaten in all five of their previous matchups, before saying she felt drained over the abusive comments she received during the China Open.</description>
-    </item>
-    <item>
-      <title>Bartunkova pulls another upset, Osaka ousted at China Open</title>
-      <link>https://www.espn.com/tennis/story/_/id/50117002/nikola-bartunkova-wins-again-naomi-osaka-ousted-china-open</link>
-      <guid isPermaLink="false">agwire:4bb9f6e19142e31f</guid>
-      <pubDate>Tue, 06 Oct 2026 12:21:33 -0400</pubDate>
-      <description>Nikola Bartunkova's run at the China Open continues after defeating Sinja Kraus on Tuesday in three sets to advance to the quarterfinals in Beijing.</description>
-    </item>
-    <item>
-      <title>Djokovic wins 7th China Open title after injured De Minaur retires</title>
-      <link>https://www.espn.com/tennis/story/_/id/50116537/djokovic-wins-7th-china-open-title-injured-de-minaur-retires</link>
-      <guid isPermaLink="false">agwire:60bb7cd870d72531</guid>
-      <pubDate>Tue, 06 Oct 2026 11:07:10 -0400</pubDate>
-      <description>Novak Djokovic won his 7th China Open title Tuesday after Alex de Minaur retired in the second set of the final with a groin injury.</description>
-    </item>
-    <item>
-      <title>Back from injury, Alcaraz keeps Japan Open title</title>
-      <link>https://www.espn.com/tennis/story/_/id/50115875/carlos-alcaraz-retains-japan-open-title-big-step-following-injury-layoff</link>
-      <guid isPermaLink="false">agwire:c34bdd2e0ecaee7c</guid>
-      <pubDate>Tue, 06 Oct 2026 08:55:17 -0400</pubDate>
-      <description>Third-ranked Carlos Alcaraz beat Jiri Lehecka on Tuesday to defend his Japan Open title, in his second tournament back from an injury layoff.</description>
-    </item>
-    <item>
-      <title>Gauff: 'Insane' wave of racist comments after disputed point at China Open</title>
-      <link>https://www.espn.com/tennis/story/_/id/50115760/insane-amount-racist-comments-match</link>
-      <guid isPermaLink="false">agwire:b6cf153880405440</guid>
-      <pubDate>Tue, 06 Oct 2026 11:48:25 -0400</pubDate>
-      <description>After a disputed point in her win over Sun Xinran at the China Open on Monday, Coco Gauff said she received an &quot;insane&quot; amount of racist comments.</description>
-    </item>
-    <item>
-      <title>Sinner out rest of year with knee inflammation</title>
-      <link>https://www.espn.com/tennis/story/_/id/50115731/jannik-sinner-miss-rest-year-due-knee-inflammation</link>
-      <guid isPermaLink="false">agwire:660c080c3e3bf6e8</guid>
-      <pubDate>Tue, 06 Oct 2026 08:31:18 -0400</pubDate>
-      <description>Jannik Sinner, who already announced he'd miss the Shanghai Masters, announced Tuesday he would miss the rest of the year due to knee inflammation.</description>
-    </item>
-    <item>
-      <title>Medvedev DQ'd from China Open after hitting spectator with ball</title>
-      <link>https://www.espn.com/tennis/story/_/id/50109415/medvedev-china-open-smashing-ball-fan-face</link>
-      <guid isPermaLink="false">agwire:2327158670358c0d</guid>
-      <pubDate>Mon, 05 Oct 2026 15:08:30 -0400</pubDate>
-      <description>Daniil Medvedev was disqualified from his semifinal China Open match against Novak Djokovic after hitting a ball into the stands and striking a fan in the head.</description>
-    </item>
-    <item>
-      <title>Alcaraz drops 16 straight points, rallies to reach Japan Open final</title>
-      <link>https://www.espn.com/tennis/story/_/id/50108583/no-3-alcaraz-overcomes-big-deficit-reach-japan-open-final</link>
-      <guid isPermaLink="false">agwire:c0730686bd6c6ff3</guid>
-      <pubDate>Mon, 05 Oct 2026 09:20:41 -0400</pubDate>
-      <description>No. 3-ranked Carlos Alcaraz overcame losing 16 straight points to beat Jaume Munar 5-7, 6-3, 6-1 to make the Japan Open final.</description>
-    </item>
-    <item>
-      <title>Alcaraz moves on to Tokyo semifinals after Shapovalov retires with injury</title>
-      <link>https://www.espn.com/tennis/story/_/id/50098036/alcaraz-advances-tokyo-semifinals-shapovalov-injury</link>
-      <guid isPermaLink="false">agwire:7e846a195c366d2e</guid>
-      <pubDate>Sun, 04 Oct 2026 13:00:16 -0400</pubDate>
-      <description>Carlos Alcaraz moved into the final four at the Tokyo Open after his quarterfinal opponent, Denis Shapovalov, was forced to retire due to a hip injury.</description>
-    </item>
-    <item>
-      <title>Sabalenka bounced from China Open in straight-sets loss to Bartunkova</title>
-      <link>https://www.espn.com/tennis/story/_/id/50098005/sabalenka-bounced-china-open-bartunkova-third-round</link>
-      <guid isPermaLink="false">agwire:35916ca0d666c572</guid>
-      <pubDate>Sun, 04 Oct 2026 13:21:45 -0400</pubDate>
-      <description>No. 34-ranked Nikola Bartunkova defeated four-time Grand Slam champion Aryna Sabalenka 6-4, 6-3 in the third round of the China Open.</description>
-    </item>
-    <item>
-      <title>Sinner extends absence by withdrawing from Shanghai Masters</title>
-      <link>https://www.espn.com/tennis/story/_/id/50089672/sinner-extends-absence-withdrawing-shanghai-masters</link>
-      <guid isPermaLink="false">agwire:f5e7349cd20464af</guid>
-      <pubDate>Sat, 03 Oct 2026 07:54:59 -0400</pubDate>
-      <description>Top-ranked Jannik Sinner has withdrawn from the Shanghai Masters as he deals with a knee problem.</description>
-    </item>
-    <item>
-      <title>Alcaraz beats Arnaldi to reach 3rd round at Japan Open</title>
-      <link>https://www.espn.com/tennis/story/_/id/50089491/alcaraz-beats-arnaldi-reach-3rd-round-japan-open</link>
-      <guid isPermaLink="false">agwire:35825e6af925a43e</guid>
-      <pubDate>Sat, 03 Oct 2026 07:18:51 -0400</pubDate>
-      <description>Top-seeded Carlos Alcaraz beat Matteo Arnaldi 7-6 (6), 6-1 on Saturday in a second-round match at the Japan Open, continuing his strong return to play after a four-month layoff due to a wrist injury.</description>
-    </item>
-    <item>
-      <title>Gauff wins first match since US Open; No. 1 Rybakina out in Beijing</title>
-      <link>https://www.espn.com/tennis/story/_/id/50088845/gauff-outlasts-osorio-3-sets-advances-third-round-china-open</link>
-      <guid isPermaLink="false">agwire:11864fda7a531b18</guid>
-      <pubDate>Sat, 03 Oct 2026 16:25:42 -0400</pubDate>
-      <description>US Open semifinalist Coco Gauff beat Camila Osorio 7-6 (4), 4-6, 6-2 in a second-round match at the China Open, while No.</description>
-    </item>
-    <item>
-      <title>Verstappen wins first sprint race in Singapore</title>
-      <link>https://www.espn.com/f1/story/_/id/50131336/max-verstappen-claims-sprint-victory-singapore-grand-prix-george-russell-crashes-lead-marina-bay-circuit-formula-1</link>
-      <guid isPermaLink="false">agwire:8258a422b83604ee</guid>
-      <pubDate>Sat, 10 Oct 2026 07:41:46 -0400</pubDate>
-      <description>Red Bull's Max Verstappen converted pole position into a sprint race victory at the Singapore Grand Prix.</description>
-    </item>
-    <item>
-      <title>Russell crashes out of lead in Singapore sprint race</title>
-      <link>https://www.espn.com/f1/story/_/id/50131337/george-russell-crashes-sprint-taking-early-lead-singapore-grand-prix-marina-bay-circuit-formula-1</link>
-      <guid isPermaLink="false">agwire:edfc636a34018787</guid>
-      <pubDate>Sat, 10 Oct 2026 07:41:47 -0400</pubDate>
-      <description>George Russell crashed out of the lead of the sprint race at the Singapore Grand Prix as his slim championship chances took another brutal blow.</description>
-    </item>
-    <item>
-      <title>Bahrain Grand Prix in Malaysia: Breaking down the engine fiasco</title>
-      <link>https://www.espn.com/racing/f1/story/_/id/50100614/formula-1-2026-bahrain-grand-prix-malaysia-engine-delays-happened-verstappen</link>
-      <guid isPermaLink="false">agwire:af3f4f64f1102906</guid>
-      <pubDate>Fri, 09 Oct 2026 23:00:46 -0400</pubDate>
-      <description>There was a lot to love about Sunday's race.</description>
-    </item>
-    <item>
-      <title>Could Malaysia return to F1 calendar? The state of play despite Sepang travel chaos</title>
-      <link>https://www.espn.com/f1/story/_/id/50082903/could-malaysia-return-f1-calendar-state-play-sepang-travel-chaos</link>
-      <guid isPermaLink="false">agwire:c5eaadc6bf72e818</guid>
-      <pubDate>Fri, 09 Oct 2026 23:00:46 -0400</pubDate>
-      <description>Malaysia's Sepang circuit hosted a popular -- and, as it stands, one-off -- return to the Formula 1 calendar, although it was overshadowed by three days of travel chaos and nightmare experiences for fans.</description>
-    </item>
-    <item>
-      <title>FIA: Sprint qualifying software issue 'human error'</title>
-      <link>https://www.espn.com/f1/story/_/id/50131328/fia-confirm-software-issue-sprint-qualifying-was-caused-human-error-singapore-grand-prix-marina-bay-circuit-formula-1</link>
-      <guid isPermaLink="false">agwire:439978fd7dbd8b6a</guid>
-      <pubDate>Fri, 09 Oct 2026 13:27:16 -0400</pubDate>
-      <description>Formula 1 encountered its second technical mishap in a less than a week after an FIA official forgot to push a button needed to enable full engine power in sprint qualifying for the Singapore Grand Prix.</description>
-    </item>
-    <item>
-      <title>Verstappen on pole for sprint race at Singapore GP</title>
-      <link>https://www.espn.com/f1/story/_/id/50131324/max-verstappen-takes-first-pole-sprint-race-singapore-grand-prix-impressive-lap-marina-bay-circuit-formula-1</link>
-      <guid isPermaLink="false">agwire:c63c0452b9312d09</guid>
-      <pubDate>Fri, 09 Oct 2026 12:52:24 -0400</pubDate>
-      <description>Max Verstappen has put his Red Bull on pole position for Saturday's sprint race at the Singapore Grand Prix with minutes to spare.</description>
-    </item>
-    <item>
-      <title>Wolff slams 'brainless' driver favouritism claims</title>
-      <link>https://www.espn.com/f1/story/_/id/50131326/watch-teletubbies-not-f1-toto-wolff-hits-back-brainless-kimi-antonelli-driver-favouritism-claims-george-russell</link>
-      <guid isPermaLink="false">agwire:29f6dc87eb0a5298</guid>
-      <pubDate>Fri, 09 Oct 2026 09:51:52 -0400</pubDate>
-      <description>Toto Wolff has strongly denied accusations of Mercedes bias in the title battle between Kimi Antonelli and George Russell this season, labelling such theories as &quot;brainless&quot; and &quot;nonsensical.&quot;</description>
-    </item>
-    <item>
-      <title>Russell quickest in sole Singapore practice</title>
-      <link>https://www.espn.com/f1/story/_/id/50131323/george-russell-sets-pace-sole-practice-session-ahead-sprint-qualifying-singapore-grand-prix-marina-bay-circuit-formula-1</link>
-      <guid isPermaLink="false">agwire:9027372ce1f38ae4</guid>
-      <pubDate>Fri, 09 Oct 2026 06:56:53 -0400</pubDate>
-      <description>George Russell topped the timesheets in the first and only practice session at the Singapore Grand Prix.</description>
-    </item>
-    <item>
-      <title>Hamilton, Max back Rwanda race as talks intensify</title>
-      <link>https://www.espn.com/f1/story/_/id/50131313/rwanda-f1-race-lewis-hamilton-max-verstappen-africa-talks-kigali</link>
-      <guid isPermaLink="false">agwire:26ab8b859dfa33eb</guid>
-      <pubDate>Thu, 08 Oct 2026 12:12:19 -0400</pubDate>
-      <description>Lewis Hamilton and Max Verstappen have welcomed the prospect of Formula 1 returning to Africa amid growing speculation that Rwanda could host a grand prix in the 2030s.</description>
-    </item>
-    <item>
-      <title>Russell's win won't kick-start title challenge, but Baku rewards his faith in trying 2026</title>
-      <link>https://www.espn.com/racing/f1/story/_/id/50034826/mercedes-george-russell-win-wont-kickstart-f1-title-challenge-azerbaijan-gp-baku-rewards-faith-trying-2026</link>
-      <guid isPermaLink="false">agwire:8a950dae6f513c48</guid>
-      <pubDate>Tue, 29 Sep 2026 10:29:58 -0400</pubDate>
-      <description>Kimi Antonelli has been Mercedes' clear-cut No.</description>
-    </item>
-    <item>
-      <title>Norris calls for race ban after Colapinto collision</title>
-      <link>https://www.espn.com/f1/story/_/id/50011930/lando-norris-takes-aim-franco-colapinto-collision-azerbaijan-grand-prix-some-drivers-formula-1-baku</link>
-      <guid isPermaLink="false">agwire:797d993bf3ca8af7</guid>
-      <pubDate>Tue, 29 Sep 2026 10:29:58 -0400</pubDate>
-      <description>Lando Norris has said Franco Colapinto should be banned for the pile-up which ended his Azerbaijan Grand Prix, adding &quot;[there's] some drivers that shouldn't be in Formula 1.&quot;</description>
-    </item>
-    <item>
-      <title>Bahrain Grand Prix in Malaysia 2026: Race start time, how to watch, full schedule, predictions</title>
-      <link>https://www.espn.com/f1/story/_/id/49971200/bahrain-grand-prix-malaysia-2026-circuit-sepang-race-f1-start-s-how-watch-schedule-usa-tv-channel-live-stream-predictions-results</link>
-      <guid isPermaLink="false">agwire:45fde90a5ecd7957</guid>
-      <pubDate>Sun, 04 Oct 2026 09:07:49 -0400</pubDate>
-      <description>Next up on the calendar is the Bahrain Grand Prix, but there's a quirk -- the 16th round of the season is actually taking place almost 4,000 miles away in Malaysia.</description>
-    </item>
-    <item>
-      <title>I raced against Max Verstappen ... for 10 seconds: Inside the chaos of Max vs 100</title>
-      <link>https://www.espn.com/f1/story/_/id/49964904/nate-saunders-raced-max-verstappen-10-seconds-max-vs-100-disney</link>
-      <guid isPermaLink="false">agwire:f2adf17e0497e37d</guid>
-      <pubDate>Sat, 19 Sep 2026 05:47:11 -0400</pubDate>
-      <description>ESPN's Nate Saunders might not have lasted long in Max vs 100, but it was still a memorable event.</description>
-    </item>
-    <item>
-      <title>Madring's F1 debut left everyone dissatisfied, even Spanish GP's top 3</title>
-      <link>https://www.espn.com/racing/f1/story/_/id/49932658/madring-f1-debut-left-everyone-dissatisfied-even-spanish-gp-top-three-kimi-antonelli-max-verstappen-lando-norris</link>
-      <guid isPermaLink="false">agwire:427aa2feb77929ba</guid>
-      <pubDate>Thu, 17 Sep 2026 03:07:40 -0400</pubDate>
-      <description>Many in the paddock were wary that the Spanish GP's brand-new Madring would make for dull racing, and that's exactly what came to pass Sunday.</description>
-    </item>
-    <item>
-      <title>Spanish GP takeaways: Kimi Antonelli marches on as Lando Norris suffers, Madring falls flat</title>
-      <link>https://www.espn.com/f1/story/_/id/49929224/spanish-grand-prix-takeaways-kimi-antonelli-lando-norris-suffers-madring-falls-flat</link>
-      <guid isPermaLink="false">agwire:c495d22fb202dc89</guid>
-      <pubDate>Thu, 17 Sep 2026 03:07:40 -0400</pubDate>
-      <description>The Spanish Grand Prix is done and dusted and drivers got their first taste of the brand-new Madring.</description>
-    </item>
-    <item>
-      <title>Norris hits out at rules after losing 'deserved' win</title>
-      <link>https://www.espn.com/f1/story/_/id/49867189/spanish-grand-prix-formula-1-lando-norris-virtual-safety-car-deserved</link>
-      <guid isPermaLink="false">agwire:de38428190e60821</guid>
-      <pubDate>Thu, 17 Sep 2026 03:07:40 -0400</pubDate>
-      <description>Lando Norris bemoaned Formula 1's Virtual Safety Car rules after he appeared to lose a nailed-on Spanish Grand Prix win, saying &quot;it's a rule that shouldn't define a race.&quot;</description>
-    </item>
-    <item>
-      <title>Spanish Grand Prix: F1 drivers pushing for 'obvious' changes to Madring after debut</title>
-      <link>https://www.espn.com/f1/story/_/id/49930110/spanish-grand-prix-f1-drivers-pushing-obvious-changes-madring-debut</link>
-      <guid isPermaLink="false">agwire:c59cec4f52856e4c</guid>
-      <pubDate>Mon, 14 Sep 2026 04:55:03 -0400</pubDate>
-      <description>Formula 1 drivers are already pushing for changes to be made to the Madring circuit after its debut Spanish Grand Prix produced a lifeless dud.</description>
-    </item>
-    <item>
-      <title>Ferrari's vintage disaster-class paves way for Antonelli to win Italian GP</title>
-      <link>https://www.espn.com/racing/f1/story/_/id/49850758/ferrari-vintage-disasterclass-paves-way-kimi-antonelli-take-home-italian-gp-win-monza</link>
-      <guid isPermaLink="false">agwire:fe639f48fbade9e1</guid>
-      <pubDate>Wed, 09 Sep 2026 05:51:40 -0400</pubDate>
-      <description>Ferrari couldn't get out of its own way at Monza, and the Italian team's Italian GP was effectively over after just three laps.</description>
-    </item>
-    <item>
-      <title>Gasly jokes: Monza whirlwind 'story of my life'</title>
-      <link>https://www.espn.com/f1/story/_/id/49813305/alpine-pierre-gasly-sums-rollercoaster-italian-gp-story-my-life-italian-grand-prix-formula-1-monza</link>
-      <guid isPermaLink="false">agwire:e56a97c1001c20ba</guid>
-      <pubDate>Wed, 09 Sep 2026 15:03:25 -0400</pubDate>
-      <description>Pierre Gasly has said Alpine's surprisingly strong Italian Grand Prix will be a galvanising one for a team which has long set its sights on closing the gap to Formula 1's big four.</description>
-    </item>
-    <item>
-      <title>Wolff: Title leader Antonelli like an 'AI agent'</title>
-      <link>https://www.espn.com/f1/story/_/id/49813303/kimi-antonelli-ai-agent-toto-wolffs-new-comparison-f1-star-italian-gp-win-italian-grand-prix-formula-1-monza</link>
-      <guid isPermaLink="false">agwire:ae4514885354ba97</guid>
-      <pubDate>Wed, 09 Sep 2026 15:05:27 -0400</pubDate>
-      <description>Kimi Antonelli has gone from a rookie &quot;like deer in the headlights&quot; to a continuously self-improving &quot;AI agent,&quot; Mercedes boss Toto Wolff said after the 20-year-old's stunning victory at the Italian Grand Prix.</description>
-    </item>
-    <item>
-      <title>Monza personifies the passion that enticed Leclerc to commit his future to Ferrari</title>
-      <link>https://www.espn.com/racing/story/_/id/49804238/formula-1-italian-grand-prix-monza-personifies-passion-enticed-charles-leclerc-commit-future-ferrari</link>
-      <guid isPermaLink="false">agwire:e6551677f8a2a6c7</guid>
-      <pubDate>Wed, 02 Sep 2026 13:30:44 -0400</pubDate>
-      <description>Ferrari hasn't been a title contender in some time, but Charles Leclerc is confident that will change.</description>
-    </item>
-    <item>
-      <title>Verstappen to race 100 drivers live on Disney+</title>
-      <link>https://www.espn.com/f1/story/_/id/49439303/max-verstappen-disney+-silverstone-karting-live</link>
-      <guid isPermaLink="false">agwire:366b2be6b3d9fae0</guid>
-      <pubDate>Wed, 02 Sep 2026 11:18:09 -0400</pubDate>
-      <description>Four-time Formula 1 world champion Max Verstappen will take on 100 drivers in a unique go-karting event live on Disney+ on Sept.</description>
-    </item>
-    <item>
-      <title>What makes Max Verstappen so good? Career, background and F1 records</title>
-      <link>https://www.espn.com/f1/story/_/id/49439356/what-makes-max verstappen-good-career-background-f1-records</link>
-      <guid isPermaLink="false">agwire:cdd27cd016e29621</guid>
-      <pubDate>Wed, 02 Sep 2026 11:18:09 -0400</pubDate>
-      <description>Max Verstappen is returning to his racing roots and is facing 100 drivers in a unique event called Max vs.</description>
-    </item>
-    <item>
-      <title>Despite back-to-back wins, Norris says his F1 title form is a mirage</title>
-      <link>https://www.espn.com/racing/f1/story/_/id/49705193/despite-back-back-wins-hungary-netherlands-lando-norris-says-f1-title-form-mirage</link>
-      <guid isPermaLink="false">agwire:b42b0c29b568ed45</guid>
-      <pubDate>Wed, 02 Sep 2026 11:18:09 -0400</pubDate>
-      <description>Lando Norris won his second straight race on Sunday in the Netherlands, so surely he's ready to mount a title challenge, right?</description>
-    </item>
-    <item>
-      <title>Max Verstappen signs new Red Bull deal to 2030</title>
-      <link>https://www.espn.com/f1/story/_/id/49667593/max-verstappen-new-red-bull-deal-f1</link>
-      <guid isPermaLink="false">agwire:b9c4b12798325582</guid>
-      <pubDate>Thu, 20 Aug 2026 12:54:26 -0400</pubDate>
-      <description>Max Verstappen has ended speculation about his Formula 1 future by signing a contract extension with Red Bull through to 2030.</description>
-    </item>
-    <item>
-      <title>2026 F1 midterm grades: Antonelli's A+ edges Hamilton's A-</title>
-      <link>https://www.espn.com/racing/f1/story/_/id/49489656/2026-formula-1-midterm-grades-all-24-drivers-kimi-antonelli-edges-lewis-hamilton</link>
-      <guid isPermaLink="false">agwire:ef4c7f2d9afcd00a</guid>
-      <pubDate>Thu, 30 Jul 2026 16:19:46 -0400</pubDate>
-      <description>As Formula 1 basks in the sunshine of its summer break, what better time than now to assign letter grades for all 24 drivers on the grid?</description>
-    </item>
-    <item>
-      <title>Singapore Grand Prix 2026: Race start time, how to watch, full schedule, predictions</title>
-      <link>https://www.espn.com/f1/story/_/id/50075966/singapore-grand-prix-2026-circuit-marina-bay-circuit-race-f1-start-s-how-watch-schedule-usa-tv-channel-live-stream-predictions-results</link>
-      <guid isPermaLink="false">agwire:2188a17aba7a0536</guid>
-      <pubDate>Sat, 10 Oct 2026 05:58:03 -0400</pubDate>
-      <description>Formula 1's original night race is back as drivers prepare for the ultimate challenge around the Marina Bay Circuit in Singapore.</description>
-    </item>
-    <item>
-      <title>F1 2027 driver lineups: From Hamilton to Verstappen, who has a seat - and who's out of contract?</title>
-      <link>https://www.espn.com/f1/story/_/id/49515865/f1-2027-driver-lineups-lewis-hamilton-max-verstappen-seat-contract</link>
-      <guid isPermaLink="false">agwire:93a47b9b915c4656</guid>
-      <pubDate>Sat, 10 Oct 2026 03:37:30 -0400</pubDate>
-      <description>The 2026 rule changes threw Formula 1 into a new era of challenges and uncertainty, but the real moments of unpredictability are still to come.</description>
-    </item>
-    <item>
-      <title>When can Kimi Antonelli win the F1 title? Earliest date, points needed and remaining races</title>
-      <link>https://www.espn.com/f1/story/_/id/50131911/kimi-antonelli-formula-1-title-race-permutations-standings-explained</link>
-      <guid isPermaLink="false">agwire:1048bfafd93e4c09</guid>
-      <pubDate>Fri, 09 Oct 2026 03:41:03 -0400</pubDate>
-      <description>With an 84-point lead in the drivers' standings, it is looking increasingly likely that Kimi Antonelli will be crowned F1's youngest world champion in the next two months.</description>
-    </item>
-    <item>
-      <title>SGA joins Atlético Madrid as investor: List of athletes who became team owners</title>
-      <link>https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners</link>
-      <guid isPermaLink="false">agwire:b3599db272a35386</guid>
-      <pubDate>Thu, 08 Oct 2026 18:14:28 -0400</pubDate>
-      <description>The Oklahoma City Thunder star joins a list of athletes that includes LeBron James, Serena Williams, Wayne Gretzky and Tom Brady.</description>
-    </item>
-    <item>
-      <title>🔴 Premier League live updates: Defending champs Arsenal host Leeds</title>
-      <link>https://www.espn.com/soccer/story/_/id/50134675/premier-league-live-updates-arsenal-leeds-united-manchester-united-tottenham</link>
-      <guid isPermaLink="false">agwire:bf9a099b88d45e67</guid>
-      <pubDate>Sat, 10 Oct 2026 08:19:16 -0400</pubDate>
-      <description>After a three-week international break, club soccer returns!</description>
-    </item>
-    <item>
-      <title>Arteta insists conscience is clear over time at Man City</title>
-      <link>https://www.espn.com/soccer/story/_/id/50142918/mikel-arteta-man-city-charges-guilty-arsenal</link>
-      <guid isPermaLink="false">agwire:68dd82d3511360ca</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>Arsenal manager Mikel Arteta has insisted his conscience is clear after former club Manchester City were found guilty of breaking Premier League rules.</description>
-    </item>
-    <item>
-      <title>Ronaldo scores as Al Nassr fans show support after Portugal walkout</title>
-      <link>https://www.espn.com/soccer/story/_/id/50142037/cristiano-ronaldo-al-nassr-goal-portugal-saudi-pro-league</link>
-      <guid isPermaLink="false">agwire:91e4665f4d681a3a</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>Cristiano Ronaldo marked his first match for Al Nassr since walking out on Portugal's camp last week by scoring his 980th career goal on Friday.</description>
-    </item>
-    <item>
-      <title>Hayes: USWNT needs collective effort to top world No. 1 Spain</title>
-      <link>https://www.espn.com/soccer/story/_/id/50143232/usa-vs-spain-women-emma-hayes-friendly-2026</link>
-      <guid isPermaLink="false">agwire:c6a7ed0f40b1aad7</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>United States women's national team head coach Emma Hayes said it will take a collective effort on both sides of the ball to defeat world No.</description>
-    </item>
-    <item>
-      <title>Miami coach urges MLS fans to enjoy Messi after Argentina adiós</title>
-      <link>https://www.espn.com/soccer/story/_/id/50140867/miami-coach-urges-mls-fans-enjoy-lionel-messi-argentina-adios</link>
-      <guid isPermaLink="false">agwire:3a20de8ca50e5b1f</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>Inter Miami coach Cristian &quot;Kily&quot; González said Argentina will miss Lionel Messi following the captain's international retirement before urging fans to enjoy his time with the MLS club.</description>
-    </item>
-    <item>
-      <title>Carrick: No timeline for Sesko's Man United return</title>
-      <link>https://www.espn.com/soccer/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick</link>
-      <guid isPermaLink="false">agwire:7c14236946571272</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>Michael Carrick has said there is no timeline for Benjamin Sesko's return after the Manchester United striker suffered a second shin injury.</description>
-    </item>
-    <item>
-      <title>Maresca: Man City titles not tainted by guilty verdict</title>
-      <link>https://www.espn.com/soccer/story/_/id/50138770/enzo-maresca-joined-man-city-even-knew-guilty-verdict</link>
-      <guid isPermaLink="false">agwire:f8b20b7bc898eef3</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>Enzo Maresca has said he would still have joined Manchester City as manager if he had known the club had been found guilty of breaching financial rules.</description>
-    </item>
-    <item>
-      <title>Everton put up for sale by U.S.-owned Friedkin Group</title>
-      <link>https://www.espn.com/soccer/story/_/id/50138355/everton-put-sale-friedkin-group</link>
-      <guid isPermaLink="false">agwire:000d38f6540570fe</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>The Friedkin Group is exploring &quot;the potential sale of a controlling interest&quot; in Everton, a statement on the club's website read.</description>
-    </item>
-    <item>
-      <title>Mourinho: Mbappé to start, criticism 'ridiculous'</title>
-      <link>https://www.espn.com/soccer/story/_/id/50138657/kylian-mbappe-start-real-madrid-criticism-ridiculous-jose-mourinho</link>
-      <guid isPermaLink="false">agwire:c7af02c3d5b20faa</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>José Mourinho has called criticism of Kylian Mbappé &quot;ridiculous,&quot; defending the Real Madrid star's conduct during the international break.</description>
-    </item>
-    <item>
-      <title>⚽ What's next for Man City: How long will appeals, punishments take?</title>
-      <link>https://www.espn.com/soccer/story/_/id/50132069/manchester-city-guilty-premier-league-verdict-sanctions-appeals-explainer-whats-next</link>
-      <guid isPermaLink="false">agwire:9560ec7e4a89f118</guid>
-      <pubDate>Sat, 10 Oct 2026 07:01:46 -0400</pubDate>
-      <description>Man City have appealed the Premier League's guilty verdict, while the sanctions board also begins its work on figuring out appropriate punishments.</description>
-    </item>
-    <item>
-      <title>Was epic Man City-Liverpool rivalry all a sham after cheating scandal?</title>
-      <link>https://www.espn.com/soccer/story/_/id/50126359/was-epic-man-city-liverpool-rivalry-all-sham-cheating-scandal</link>
-      <guid isPermaLink="false">agwire:12408ff0f9e17cd5</guid>
-      <pubDate>Sat, 10 Oct 2026 08:26:04 -0400</pubDate>
-      <description>Under Jürgen Klopp and Pep Guardiola, Liverpool and Man City pushed the Premier League's standards higher than ever.</description>
-    </item>
-    <item>
-      <title>Ian Darke's early Premier League impressions for all 20 teams</title>
-      <link>https://www.espn.com/soccer/story/_/id/50022605/ian-darke-early-premier-league-impressions-all-20-teams</link>
-      <guid isPermaLink="false">agwire:d8d187c54473a46a</guid>
-      <pubDate>Sat, 10 Oct 2026 08:23:48 -0400</pubDate>
-      <description>Might Arsenal be more vulnerable than expected?</description>
-    </item>
-    <item>
-      <title>Transfer rumors, news: Man United youngster Gabriel has Bayern Munich talks</title>
-      <link>https://www.espn.com/soccer/story/_/id/50145785/transfer-rumors-news-manchester-united-youngster-jj-gabriel-bayern-munich-talks</link>
-      <guid isPermaLink="false">agwire:0dff6aaed09d0215</guid>
-      <pubDate>Sat, 10 Oct 2026 05:41:55 -0400</pubDate>
-      <description>Manchester United's top young prospect JJ Gabriel has renewed discussions with Bayern Munich.</description>
-    </item>
-    <item>
-      <title>Pochettino's youngsters shine, but lineup questions linger</title>
-      <link>https://www.espn.com/soccer/story/_/id/50127389/usmnt-takeaways-mauricio-pochettinos-youngsters-shine-lineup-questions-linger</link>
-      <guid isPermaLink="false">agwire:1c2b07964737212c</guid>
-      <pubDate>Fri, 09 Oct 2026 09:23:59 -0400</pubDate>
-      <description>The USMNT's youngsters made their case in the last international window, while key questions remain ahead of the Concacaf Nations League quarterfinal.</description>
-    </item>
-    <item>
-      <title>Winless under Márquez, how patient should Mexico be with the legend-turned-coach?</title>
-      <link>https://www.espn.com/soccer/story/_/id/50127517/winless-rafa-marquez-how-patient-mexico-legend-turned-coach</link>
-      <guid isPermaLink="false">agwire:ad081073d827243d</guid>
-      <pubDate>Fri, 09 Oct 2026 09:19:45 -0400</pubDate>
-      <description>Mexico aren't known for showing managers much patience, so how long before former captain and now winless coach Rafa Márquez comes under pressure?</description>
-    </item>
-    <item>
-      <title>World Cup 2030 Early Power Rankings: Who is No. 1?</title>
-      <link>https://www.espn.com/soccer/story/_/id/50114003/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france</link>
-      <guid isPermaLink="false">agwire:bbb961c40a356ce2</guid>
-      <pubDate>Wed, 07 Oct 2026 09:46:49 -0400</pubDate>
-      <description>With the 2026 World Cup well and truly behind us, the first fall international break saw all the top teams playing four times in three weeks.</description>
     </item>
     <item>
       <title>Takeaways and analysis from Valkyries' sweep</title>
@@ -1272,39 +82,11 @@
       <description>Angel Reese had 22 points as the Dream finished the Liberty with an 85-83 win in Game 3 to advance to the WNBA Finals for the first time since 2013.</description>
     </item>
     <item>
-      <title>Norvell shoulders blame as FSU authors another 'extremely poor performance'</title>
-      <link>https://www.espn.com/college-football/story/_/id/50144731/fsu-lets-14-0-slip-disappointing-loss-louisville</link>
-      <guid isPermaLink="false">agwire:5a1f990d60d865f8</guid>
-      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
-      <description>After Florida State rushed to a 14-0 advantage, Louisville rallied to take down the struggling Seminoles 44-20, increasing the pressure on embattled coach Mike Norvell, who told reporters that it was &quot;an extremely poor performance by us.&quot;</description>
-    </item>
-    <item>
-      <title>RB Barkley, WR Smith among 5 Eagles ruled out for London game vs. Jags</title>
-      <link>https://www.espn.com/nfl/story/_/id/50142553/saquon-barkley-devonta-smith-eagles-players-ruled-london-game-vs-jaguars</link>
-      <guid isPermaLink="false">agwire:be2bcb9d1f9e8086</guid>
-      <pubDate>Sat, 10 Oct 2026 04:03:21 -0400</pubDate>
-      <description>Eagles running back Saquon Barkley, receiver DeVonta Smith, new starting center Drew Kendall, safety Marcus Epps and receiver Hollywood Brown were all ruled out for Sunday's game in London against the Jaguars.</description>
-    </item>
-    <item>
-      <title>Kyle Busch's 11-year-old son highlights celebration of life ceremony with burnout</title>
-      <link>https://www.espn.com/racing/nascar/story/_/id/50144130/nascar-community-celebrates-life-kyle-busch-ceremony-charlotte-motor-speedway</link>
-      <guid isPermaLink="false">agwire:81f4fce7109e172e</guid>
-      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
-      <description>The NASCAR community and more than 10,000 race fans celebrated the life of the late Kyle Busch during an uplifting ceremony Friday night at Charlotte Motor Speedway.</description>
-    </item>
-    <item>
       <title>Legendary coach, Hall of Fame TE Ditka dies at age 86</title>
       <link>https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86</link>
       <guid isPermaLink="false">agwire:d02099768e3ceb83</guid>
       <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
       <description>Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.</description>
-    </item>
-    <item>
-      <title>Liberty's star trio say DeMarco's future as head coach 'not our decision'</title>
-      <link>https://www.espn.com/wnba/story/_/id/50145479/liberty-star-trio-say-demarco-future-not-our-decision</link>
-      <guid isPermaLink="false">agwire:87ed7256a7dc674f</guid>
-      <pubDate>Sat, 10 Oct 2026 04:03:21 -0400</pubDate>
-      <description>The Liberty's Breanna Stewart, Sabrina Ionescu and Jonquel Jones fell short of offering a definitive vote of confidence in head coach Chris DeMarco, with each saying his future was &quot;not our decision.&quot;</description>
     </item>
     <item>
       <title>Shesterkin injured, helped off ice in second period of Rangers' loss</title>
@@ -1314,95 +96,151 @@
       <description>New York Rangers goaltender Igor Shesterkin, the 30-year-old Russian who won the 2022 Vezina Trophy as the league's top netminder, had to be helped off the ice after an awkward fall into his own net in a 3-1 loss to the Washington Capitals…</description>
     </item>
     <item>
-      <title>🎡 First time at the State Fair of Texas? Here's your first stop</title>
-      <link>https://www.espn.com/college-football/story/_/id/50135168/texas-oklahoma-state-fair-red-river-guide</link>
-      <guid isPermaLink="false">agwire:717df345ee008a4d</guid>
+      <title>Takeaways and analysis from Valkyries' sweep</title>
+      <link>https://www.espn.com/wnba/story/_/id/50141216/2026-wnba-playoffs-semifinals-scores-results-takeaways-analysis</link>
+      <guid isPermaLink="false">agwire:928f1b5203a98497</guid>
+      <pubDate>Sat, 10 Oct 2026 02:28:28 -0400</pubDate>
+      <description>null</description>
+    </item>
+    <item>
+      <title>Valkyries make 'history,' oust Aces to reach Finals in 2nd year as franchise</title>
+      <link>https://www.espn.com/wnba/story/_/id/50144607/valkyries-dethrone-aces-ot-make-wnba-finals-second-year-franchise</link>
+      <guid isPermaLink="false">agwire:589d7de48f18295b</guid>
       <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
-      <description>We polled our staff for their best tips on making the most of one of the sport's most distinctive backdrops.</description>
+      <description>The second-year Valkyries became the quickest expansion team to reach the WNBA Finals, sweeping the defending champion Aces 87-77 in overtime in Game 3.</description>
     </item>
     <item>
-      <title>Roundtable: Ladder match winners, bold predictions, more</title>
-      <link>https://www.espn.com/wwe/story/_/id/50133824/wwe-money-bank-roundtable</link>
-      <guid isPermaLink="false">agwire:0f329efbd1b56520</guid>
-      <pubDate>Sat, 10 Oct 2026 03:42:13 -0400</pubDate>
-      <description>Our WWE contributors get you ready for Money in the Bank by making their picks for Saturday's PLE.</description>
+      <title>Reese says 'job is not done' as Dream sweep Liberty to reach WNBA Finals</title>
+      <link>https://www.espn.com/wnba/story/_/id/50143905/dream-sweep-liberty-earn-first-wnba-finals-berth-2013</link>
+      <guid isPermaLink="false">agwire:1cf0f8fbcd2facca</guid>
+      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
+      <description>Angel Reese had 22 points as the Dream finished the Liberty with an 85-83 win in Game 3 to advance to the WNBA Finals for the first time since 2013.</description>
     </item>
     <item>
-      <title>32 reasons college football will get real in Week 6</title>
-      <link>https://www.espn.com/college-football/story/_/id/50133135/connelly-week-6-preview-sec-big-ten-alabama-georgia</link>
-      <guid isPermaLink="false">agwire:c9d05e43b666cd9f</guid>
-      <pubDate>Sat, 10 Oct 2026 08:51:49 -0400</pubDate>
-      <description>With Georgia-Alabama, major challenges for Big Ten unbeatens and some Big 12 chaos, there's a lot to follow.</description>
+      <title>Legendary coach, Hall of Fame TE Ditka dies at age 86</title>
+      <link>https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86</link>
+      <guid isPermaLink="false">agwire:906cce15bfcf62f9</guid>
+      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
+      <description>Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.</description>
     </item>
     <item>
-      <title>How Bob Chesney has completely turned around UCLA</title>
-      <link>https://www.espn.com/college-football/story/_/id/50125661/2026-bob-chesney-ucla-winning-turnaround</link>
-      <guid isPermaLink="false">agwire:8a8a68274b1d9cb7</guid>
-      <pubDate>Sat, 10 Oct 2026 08:51:49 -0400</pubDate>
-      <description>The Bruins are off to a 4-0 start, and it doesn't seem as if Bob Chesney is stepping off the gas any time soon.</description>
+      <title>Shesterkin injured, helped off ice in second period of Rangers' loss</title>
+      <link>https://www.espn.com/nhl/story/_/id/50143665/rangers-goaltender-igor-shesterkin-helped-ice-fall</link>
+      <guid isPermaLink="false">agwire:963a4d43ed89fcaa</guid>
+      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
+      <description>New York Rangers goaltender Igor Shesterkin, the 30-year-old Russian who won the 2022 Vezina Trophy as the league's top netminder, had to be helped off the ice after an awkward fall into his own net in a 3-1 loss to the Washington Capitals…</description>
     </item>
     <item>
-      <title>Our NFL Week 5 crystal ball: Five analysts make predictions, from upsets to TD scorers</title>
-      <link>https://www.espn.com/nfl/story/_/id/50133043/week-5-predictions-upsets-fantasy-sleepers-stats-2026</link>
-      <guid isPermaLink="false">agwire:60eeb60ccb7c278a</guid>
-      <pubDate>Sat, 10 Oct 2026 08:51:41 -0400</pubDate>
-      <description>Big performances for Brock Bowers, Travon Walker and Luther Burden III?</description>
+      <title>Takeaways and analysis from Valkyries' sweep</title>
+      <link>https://www.espn.com/wnba/story/_/id/50141216/2026-wnba-playoffs-semifinals-scores-results-takeaways-analysis</link>
+      <guid isPermaLink="false">agwire:7fce7c86d1e79bed</guid>
+      <pubDate>Sat, 10 Oct 2026 02:28:28 -0400</pubDate>
+      <description>null</description>
     </item>
     <item>
-      <title>Texans, Titans face off desperately seeking first win after 0-4 starts</title>
-      <link>https://www.espn.com/nfl/story/_/id/50134036/texans-titans-0-4-matchup-desperate-win</link>
-      <guid isPermaLink="false">agwire:fc15c2f97d1ac52e</guid>
-      <pubDate>Sat, 10 Oct 2026 08:51:41 -0400</pubDate>
-      <description>Tennessee coach Robert Saleh and Houston coach DeMeco Ryans put friendship aside in battle of winless teams.</description>
+      <title>Valkyries make 'history,' oust Aces to reach Finals in 2nd year as franchise</title>
+      <link>https://www.espn.com/wnba/story/_/id/50144607/valkyries-dethrone-aces-ot-make-wnba-finals-second-year-franchise</link>
+      <guid isPermaLink="false">agwire:cd4b7ec088370aed</guid>
+      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
+      <description>The second-year Valkyries became the quickest expansion team to reach the WNBA Finals, sweeping the defending champion Aces 87-77 in overtime in Game 3.</description>
     </item>
     <item>
-      <title>Inside a Wrigleyville rooftop owner's fight with the Cubs</title>
-      <link>https://www.espn.com/mlb/story/_/id/50136089/wrigleyville-rooftop-owner-fight-chicago-cubs</link>
-      <guid isPermaLink="false">agwire:a6c42762317c3e6d</guid>
-      <pubDate>Fri, 09 Oct 2026 09:17:36 -0400</pubDate>
-      <description>Will the last holdout in Wrigleyville be able to stand up to the Chicago Cubs?</description>
+      <title>Reese says 'job is not done' as Dream sweep Liberty to reach WNBA Finals</title>
+      <link>https://www.espn.com/wnba/story/_/id/50143905/dream-sweep-liberty-earn-first-wnba-finals-berth-2013</link>
+      <guid isPermaLink="false">agwire:d96ff82b3b0bee92</guid>
+      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
+      <description>Angel Reese had 22 points as the Dream finished the Liberty with an 85-83 win in Game 3 to advance to the WNBA Finals for the first time since 2013.</description>
     </item>
     <item>
-      <title>Alabama thinks it has found and fixed Ryan Coleman-Williams' drop issues</title>
-      <link>https://www.espn.com/college-football/story/_/id/50133938/college-football-alabama-ryan-coleman-williams-drops</link>
-      <guid isPermaLink="false">agwire:e1d0cfad56d8ec2d</guid>
-      <pubDate>Sat, 10 Oct 2026 08:25:39 -0400</pubDate>
-      <description>Using VR technology, the staff discovered a depth perception issue, and the drops have disappeared.</description>
+      <title>Legendary coach, Hall of Fame TE Ditka dies at age 86</title>
+      <link>https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86</link>
+      <guid isPermaLink="false">agwire:74dbea485d9f1c1e</guid>
+      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
+      <description>Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.</description>
     </item>
     <item>
-      <title>Hard-nosed and humble, Gunner Stockton looks to get Georgia another national title</title>
-      <link>https://www.espn.com/college-football/story/_/id/50126123/gunner-stockton-back-spotlight-georgia-faces-alabama</link>
-      <guid isPermaLink="false">agwire:c6e557e7fe192c03</guid>
-      <pubDate>Sat, 10 Oct 2026 08:25:39 -0400</pubDate>
-      <description>The Bulldogs QB is a quiet leader, but those who have known him over the years eagerly sing his praises.</description>
+      <title>Shesterkin injured, helped off ice in second period of Rangers' loss</title>
+      <link>https://www.espn.com/nhl/story/_/id/50143665/rangers-goaltender-igor-shesterkin-helped-ice-fall</link>
+      <guid isPermaLink="false">agwire:890782d331b68585</guid>
+      <pubDate>Sat, 10 Oct 2026 04:03:20 -0400</pubDate>
+      <description>New York Rangers goaltender Igor Shesterkin, the 30-year-old Russian who won the 2022 Vezina Trophy as the league's top netminder, had to be helped off the ice after an awkward fall into his own net in a 3-1 loss to the Washington Capitals…</description>
     </item>
     <item>
-      <title>Rooted in greatness: How 45 head coaches trace back to Nick Saban</title>
-      <link>https://www.espn.com/espn/feature/story/_/id/49958400/nick-saban-coaching-tree-alabama-lsu-miami-dolphins</link>
-      <guid isPermaLink="false">agwire:355a34b1faed4053</guid>
-      <pubDate>Sat, 10 Oct 2026 08:25:39 -0400</pubDate>
-      <description>Across four college stops and one NFL team, Saban's tree spread through dozens of coaches and helped reshape modern football.</description>
+      <title>Legendary NFL coach Mike Ditka dies at 86</title>
+      <link>https://www.saturdaydownsouth.com/news/nfl/legendary-nfl-coach-mike-ditka-dies-at-86/</link>
+      <guid isPermaLink="false">agwire:7a09cb6b73888ced</guid>
+      <pubDate>Fri, 09 Oct 2026 12:38:22 -0400</pubDate>
+      <description>The NFL world lost a true legend on Friday with the passing of Hall of Fame player and coach Mike Ditka at the age of 86.</description>
     </item>
     <item>
-      <title>Can the White Sox bullpen their way to the ALCS? Inside Chicago's 'Pitching Chaos Squared' plan</title>
-      <link>https://www.espn.com/mlb/story/_/id/50140574/mlb-playoffs-2026-chicago-white-sox-bullpen-pitching-plan</link>
-      <guid isPermaLink="false">agwire:72fe378b05a4fccb</guid>
-      <pubDate>Sat, 10 Oct 2026 08:28:06 -0400</pubDate>
-      <description>Starters and relievers?</description>
+      <title>Avalanche sign star Cale Makar to largest contract in NHL history at $163.2 million</title>
+      <link>https://www.cbssports.com/nhl/news/cale-makar-colorado-avalanche-contract-record/</link>
+      <guid isPermaLink="false">agwire:aa7e24128582371a</guid>
+      <pubDate>Fri, 28 Aug 2026 18:10:31 -0400</pubDate>
+      <description>Makar just became the NHL's first $20 million player</description>
     </item>
     <item>
-      <title>It's win-or-go-home time in Cleveland! Everything you need for Game 5</title>
-      <link>https://www.espn.com/mlb/story/_/id/50140393/mlb-2026-playoffs-division-series-alds-game-5-updates-lineups-analysis-takeaways-guardians-white-sox</link>
-      <guid isPermaLink="false">agwire:eaca6feddca74d0a</guid>
-      <pubDate>Sat, 10 Oct 2026 08:28:06 -0400</pubDate>
-      <description>Who will move on to face the Rays?</description>
+      <title>Shesterkin injured, helped off ice in second period of Rangers' loss</title>
+      <link>https://www.espn.com/nhl/story/_/id/50143665/rangers-goaltender-igor-shesterkin-helped-ice-fall</link>
+      <guid isPermaLink="false">agwire:df2c00df9f4c859f</guid>
+      <pubDate>Sat, 10 Oct 2026 00:47:46 -0400</pubDate>
+      <description>New York Rangers goaltender Igor Shesterkin, the 30-year-old Russian who won the 2022 Vezina Trophy as the league's top netminder, had to be helped off the ice after an awkward fall into his own net in a 3-1 loss to the Washington Capitals…</description>
     </item>
     <item>
-      <title>The WNBA Finals are set! First look at how Valkyries, Dream match up</title>
-      <link>https://www.espn.com/wnba/story/_/id/50144636/wnba-playoffs-2026-golden-state-valkyries-atlanta-dream-first-look-finals</link>
-      <guid isPermaLink="false">agwire:c2af7cd873094658</guid>
-      <pubDate>Sat, 10 Oct 2026 08:07:21 -0400</pubDate>
-      <description>We're breaking down how the Dream and Valkyries match up as they vie for their first WNBA title.</description>
+      <title>The Yankees' modern failures were on full display as their season fittingly ends with sweep</title>
+      <link>https://www.cbssports.com/mlb/news/yankees-modern-failures-full-display-sweep/</link>
+      <guid isPermaLink="false">agwire:93e9f666cf0c9c1e</guid>
+      <pubDate>Thu, 08 Oct 2026 09:19:47 -0400</pubDate>
+      <description>The Rays swept the Yankees in the 2026 ALDS, and there was a sense of inevitability in the Bronx on Wednesday night</description>
+    </item>
+    <item>
+      <title>Rays sweep Yankees; Dodgers head to NLCS; Does Cam Jurgens trade signal more changes for Eagles?</title>
+      <link>https://www.cbssports.com/mlb/news/rays-sweep-yankees-dodgers-head-to-nlcs-does-cam-jurgens-trade-signal-more-changes-for-eagles/</link>
+      <guid isPermaLink="false">agwire:214e38c291ee25a5</guid>
+      <pubDate>Thu, 08 Oct 2026 09:00:17 -0400</pubDate>
+      <description>Plus, game-by-game picks for NFL Week 5 slate</description>
+    </item>
+    <item>
+      <title>2026 MLB playoffs: Winners and losers as Dodgers, Rays, Brewers advance, Yankees eliminated in sweep</title>
+      <link>https://www.cbssports.com/mlb/news/2026-mlb-playoffs-winners-losers-alds-game-3-nlds-game-4/</link>
+      <guid isPermaLink="false">agwire:13fca092a19c8488</guid>
+      <pubDate>Thu, 08 Oct 2026 01:18:17 -0400</pubDate>
+      <description>The Braves, Yankees and Padres are headed home for the winter, while the Guardians forced a Game 4 with Wednesday's win over the White Sox</description>
+    </item>
+    <item>
+      <title>Grading the Yankees hot seats: After playoff elimination, could Aaron Boone, Brian Cashman be out?</title>
+      <link>https://www.cbssports.com/mlb/news/yankees-hot-seat-aaron-boone-brian-cashman-playoff-elimination/</link>
+      <guid isPermaLink="false">agwire:04c43b903a7bde17</guid>
+      <pubDate>Thu, 08 Oct 2026 00:03:08 -0400</pubDate>
+      <description>The Yankees were swept by the Rays in the ALDS and now have a long, cold winter to figure out how to fix things in 2027</description>
+    </item>
+    <item>
+      <title>Judge 'just hating every single moment of' watching Yankees' elimination</title>
+      <link>https://www.espn.com/mlb/story/_/id/50131001/aaron-judge-reacts-yankees-postseason-elimination-rays</link>
+      <guid isPermaLink="false">agwire:57d3ccb594930147</guid>
+      <pubDate>Sat, 10 Oct 2026 08:17:06 -0400</pubDate>
+      <description>Aaron Judge stuck around the home dugout at Yankee Stadium to watch a familiar final October scene unfold: an opponent celebrating after eliminating the Yankees on their home field.</description>
+    </item>
+    <item>
+      <title>76ers center Ariel Hukporti tears Achilles: What injury means for Philly, Joel Embiid ahead of pivotal season</title>
+      <link>https://www.cbssports.com/nba/news/ariel-hukporti-injury-update-philadelphia-76ers-joel-embiid/</link>
+      <guid isPermaLink="false">agwire:36381adbc52b170c</guid>
+      <pubDate>Tue, 06 Oct 2026 16:30:20 -0400</pubDate>
+      <description>Hukporti was in line for a significant uptick in playing time in Philadelphia after a part-time role with the Knicks</description>
+    </item>
+    <item>
+      <title>Mike Ditka, Hall of Fame tight end and Bears' Super Bowl-winning coach, dies at age 86</title>
+      <link>https://www.cbssports.com/nfl/news/mike-ditka-bears-super-bowl-winning-coach-dies-at-age-86/</link>
+      <guid isPermaLink="false">agwire:305a2306f72524a7</guid>
+      <pubDate>Fri, 09 Oct 2026 21:09:50 -0400</pubDate>
+      <description>Ditka was a fixture in the NFL for more than 50 years</description>
+    </item>
+    <item>
+      <title>Legendary coach, Hall of Fame TE Ditka dies at age 86</title>
+      <link>https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86</link>
+      <guid isPermaLink="false">agwire:5547eb58a1f80dc0</guid>
+      <pubDate>Fri, 09 Oct 2026 20:37:08 -0400</pubDate>
+      <description>Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.</description>
     </item>
   </channel>
 </rss>
